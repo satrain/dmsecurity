@@ -160,7 +160,7 @@ function dmsecurity_scripts() {
 	wp_register_script('aos-js', 'https://unpkg.com/aos@2.3.1/dist/aos.js', array(), null, true);
 	wp_enqueue_script('aos-js');
 
-	wp_register_style('main_style', 'public_html/'.get_template_directory_uri() . '/assets/css/main.css', array(), _S_VERSION, 'all');
+	wp_register_style('main_style', get_template_directory_uri() . '/assets/css/main.css', array(), _S_VERSION, 'all');
     wp_enqueue_style('main_style');
 	wp_register_style('about_style', get_template_directory_uri() . '/assets/css/about.css', array(), _S_VERSION, 'all');
     wp_enqueue_style('about_style');
