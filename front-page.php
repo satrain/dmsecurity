@@ -9,7 +9,7 @@
                     <p>Implementacija softvera i aplikacija za jasno definisinje svih procesa u kompanijama koje se bave bezbednošću.</p>
                     <div class="buttons-wrapper">
                       <a href="/qr-patrol/" class="btn-primary">QR-Patrol</a>
-                      <a href="#video" class="btn-primary">Pogledajte Video</a>
+                      <a href="#video" class="btn-primary hero-watch-video-btn">Pogledajte Video</a>
                     </div>
                 </div>
                 <div class="gradient-hero-background"></div>
@@ -18,6 +18,7 @@
                 <div class="slide-copy">
                     <h1>Konsalting</h1>
                     <p>Usluge konsaltinga u delu organizacije posla,  izrade određenih rešenja, pravilnika i procedura za aktivnosti.</p>
+                    <a href="/konsalting/" class="btn-primary">Zakažite termin</a>
                 </div>
                 <div class="gradient-hero-background"></div>
             </div>
@@ -25,18 +26,95 @@
                 <div class="slide-copy">
                     <h1>Akademija za edukaciju</h1>
                     <p>Akademija za edukacju službenika obezbeđenja, službenika tehničke zaštite, procene rizika i vatrogasaca.</p>
+                    <a href="/akademija/" class="btn-primary">Upišite se</a>
                 </div>
                 <div class="gradient-hero-background"></div>
             </div>
         </div>
     </div>
 
+    <!-- about us -->
+    <section>
+      <div id="about-us" class="flexbox-section">
+        <div class="about-us-wrapper">
+          <div class="about-us-copy flexbox-copy" data-aos="fade-right" data-aos-duration="1500">
+            <span class="title_number">01</span>
+            <h2>O nama</h2>
+            <p>Naša kompanija je jedna od pionira u digitalizaciji procesa u sektoru bezbednosti. Osnovna delatnost nam je implementacija naših digitalnih rešenja - softvera i aplikacija za jasno definisinje svih procesa u kompanijama koje se bave bezbednošću.</p>
+            <a href="/o-nama/" class="btn-primary">Više o nama</a>
+          </div>
+          <img src="/wp-content/uploads/2023/01/o-nama-pocetna.png" alt="O nama" class="about-us-image">
+        </div>
+      </div>
+    </section>
 
+    <!-- QR-Patrol --> 
+    <section>
+      <div id="qr-patrol" class="flexbox-section">
+        <div class="qr-patrol-wrapper">
+          <div class="qr-patrol-copy flexbox-copy">
+            <span class="title_number">02</span>
+            <h2>QR-Patrol</h2>
+            <p>QR-PATROL menja način nadgledanja vaših patrola tako što povećava efikasnost samih stražara i uporedo ih štiti u realnom vremenu.
+            <br><br>
+            Budite transparentni sa vašim klijentom i na taj način povećajte vrednost vaših stražarskih usluga.</p>
+            <a href="/qr-patrol/" class="btn-primary">Saznaj više</a>
+          </div>
+          <img src="/wp-content/uploads/2023/01/qr-patrol-pocetna-slika.png" alt="QR-Patrol aplikacija" class="qr-patrol-image">
+        </div>
+      </div>
+    </section>
 
-    <!-- START: TESTIMONIALS -->
+    <!-- academy --> 
+    <section>
+      <div id="academy" class="flexbox-section">
+        <div class="academy-wrapper">
+          <div class="academy-copy flexbox-copy">
+            <span class="title_number">03</span>
+            <h2>Akademija</h2>
+            <p>U okviru kompanije imamo i svoju Akademiju za edukaciju službenika obezbeđenja, službenika tehničke zaštite, procene rizika i vatrogasaca.
+            <br><br>
+            U okviru kompanije imamo i svoju Akademiju za edukaciju službenika.</p>
+            <a href="/akademija/" class="btn-primary">Saznaj više</a>
+          </div>
+          <img src="/wp-content/uploads/2023/01/akademija-pocetna-slika.png" alt="Akademija za edukaciju" class="academy-image">
+        </div>
+      </div>
+    </section>
+
+  <!-- consulting -->
+  <section>
+    <div id="consulting">
+      <div class="consulting-upper-fade gradient-hero-background"></div>
+      <div class="consulting-copy">
+        <span class="title_number">04</span>
+        <h2>Konsalting</h2>
+        <p>Pružamo i usluge konsaltinga u delu organizacije posla, izrade određenih rešenja, pravilnika i procedura za aktivnosti kompanija za obezbeđenje.
+        <br><br>
+        Pružamo i usluge konsaltinga u delu organizacije.</p>
+        <a href="/konsalting/" class="btn-primary">Saznaj više</a>
+      </div>
+      <div class="consulting-down-fade"></div>
+    </div>
+  </section>
+
+  <!-- QR-Patrol 2nd section --> 
+  <section>
+    <div id="qr-patrol-digital">
+      <div class="qr-patrol-digital-copy">
+        <span class="title_number">05</span>
+        <h2>Digitalizacija u usponu</h2>
+        <p>Digitalizujte vaše poslovanje i na taj način ga učinite još profesionalnijim. Pogledajte naše digitalno rešenje QR-Patrol koje se zasniva na praćenju i zaštiti vaših radnika</p>
+        <a href="/qr-patrol/" class="btn-primary">QR-Patrol</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- testimonials -->
   <section>
     <div id="testimonials">
-      <h2>ZADOVOLJNI KORISNICI</h2>
+      <span class="title_number">06</span>
+      <h2>Zadovoljni Klijenti</h2>
 
       <div class="scroll-area">
         <div class="wrapper">

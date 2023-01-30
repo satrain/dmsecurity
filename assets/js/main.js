@@ -1,39 +1,33 @@
-var util = {
-    mobileMenu() {
-      jQuery("#nav").toggleClass("nav-visible");
-    },
-    windowResize() {
-      if (jQuery(window).width() > 800) {
-        jQuery("#nav").removeClass("nav-visible");
-      }
-    },
-    scrollEvent() {
-      var scrollPosition = jQuery(document).scrollTop();
-      
-      jQuery.each(util.scrollMenuIds, function(i) {
-        var link = util.scrollMenuIds[i],
-            container = jQuery(link).attr("href"),
-            containerOffset = jQuery(container).offset().top,
-            containerHeight = jQuery(container).outerHeight(),
-            containerBottom = containerOffset + containerHeight;
-  
-        if (scrollPosition < containerBottom - 20 && scrollPosition >= containerOffset - 20) {
-          jQuery(link).addClass("active");
-        } else {
-          jQuery(link).removeClass("active");
-        }
-      });
+// navigation on scroll effect
+const header = document.querySelector("header")
+
+let prevScrollpos = window.pageYOffset;
+window.addEventListener("scroll", function () {
+    let currentScrollPos = window.pageYOffset;
+    if (currentScrollPos < 50) {
+        document.querySelector("header").style.background = "transparent";
+        document.querySelector("header").style.height = "unset";
+        document.querySelector(".header-logo").style.width = "227px";
+        document.querySelector(".header-logo").style.height = "145px";
+        document.querySelector("header").style.transition = ".3s";
+    } else {
+        document.querySelector("header").style.background = "#f2950ac9";
+        document.querySelector("header").style.height = "115px";
+        document.querySelector(".header-logo").style.width = "158px";
+        document.querySelector(".header-logo").style.height = "99px";
+        document.querySelector("header").style.transition = ".3s";
     }
-  };
-  
-  jQuery(document).ready(function($) {
-    
-    util.scrollMenuIds = $("a.nav-link[href]");
-    $("#menu").click(util.mobileMenu);
-    $(window).resize(util.windowResize);
-    $(document).scroll(util.scrollEvent);
-    
-  });
+    prevScrollpos = currentScrollPos;
+});
+
+
+//Mobile - show navigation on burger click
+let burger = document.querySelector(".burger")
+let navMobile = document.querySelector(".nav-mobile-modal")
+burger.onclick = function () {
+    navMobile.classList.toggle("nav-mobile-active");
+    burger.classList.toggle("open");
+};
   
   // Slider - Testimonials
   (function() {

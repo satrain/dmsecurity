@@ -70,5 +70,8 @@
         <p>© Copyright <?php echo date('Y'); ?> | <a href="jelenadesign.eu" target="_blank">jelenadesign.eu</a></p>
     </div>
     <?php wp_footer(); ?>
+    <script>
+        AOS.init();
+    </script>
 </body>
 </html>

@@ -1,0 +1,15 @@
+.iner-page-hero h1 {
+    text-align: center;
+}
+
+.about-inner-page-hero {
+    background: url("/wp-content/uploads/2023/01/about-inner-page-hero-image.png");
+    width: 100vw;
+    min-height: 421px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
