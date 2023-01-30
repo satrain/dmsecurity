@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/dm345securtydt/public_html/wp-content/
+    - /bin/cp -R dmsecurity-main $DEPLOYPATH
