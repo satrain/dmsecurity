@@ -83,8 +83,8 @@ span.title_number {
   }
 
   h2 {
-    font-size: 32px;
-    line-height: 42px;
+    font-size: 32px!important;
+    line-height: 42px!important;
   }
 
   p {
@@ -424,6 +424,7 @@ header {
 
   .hero .slider-item .slick-slide {
     background-position: bottom 0 right 20%!important;
+    height: auto;
   }
 
   .btn-primary {
@@ -440,12 +441,52 @@ header {
     position: relative;
     top: 0;
     left: 0;
-    margin-top: 200px;
+    margin-top: 140px;
     padding: 0 30px;
   }
 
   .hero .slider-item .slick-slide {
     background-position: bottom 0 right 20%!important;
+  }
+}
+
+/* counter */
+.counter-section-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 115px;
+}
+
+.counter-section-wrapper span {
+  display: block;
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 90px;
+  line-height: 110px;
+  
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0 auto;
+  
+  color: #2196F3;
+}
+
+.counter-section-wrapper p {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+@media screen and (max-width: 1024px) {
+  .counter-section-wrapper {
+    flex-direction: column;
+    gap: 50px;
   }
 }
 
@@ -609,9 +650,49 @@ header {
   }
 }
 
+/* QR-Patrol Video */
+#qr-patrol-video {
+  padding-bottom: 170px;
+}
+
+#qr-patrol-video > h2 {
+  text-align: center;
+}
+
+#qr-patrol-video > span {
+  display: block;
+  text-align: center;
+}
+
+.video-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 883px;
+  margin: 71px auto 0;
+}
+
+.video-play-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: transparent;
+  border: unset;
+}
+
+@media screen and (max-width: 900px) {
+  .video-wrapper video {
+    width: 100%;
+  }
+
+  .video-play-button img {
+    width: 55px;
+  }
+}
+
 /* QR-Patrol 2nd section */
 #qr-patrol-digital {
-  padding: 0 70px 150px;
+  padding: 110px 70px 150px;
   background: #F2950A;
 }
 
@@ -1046,8 +1127,17 @@ footer .container > div ul li a span {
         padding: 50px 0 40px;
     }
 
+    footer .company {
+      display: none;
+    }
+
     footer .container {
         flex-direction: column;
+    }
+
+    footer iframe {
+      width: 100%;
+      margin-top: 50px;
     }
 
     footer .container > div:not(.info) > p {

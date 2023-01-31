@@ -13,3 +13,42 @@
     justify-content: center;
     align-items: center;
 }
+
+.about-first-section {
+    padding: 120px 0px;
+    text-align: center;
+}
+
+.about-second-section {
+    display: flex;
+    justify-content: center;
+}
+
+.about-third-section h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 54px;
+    line-height: 66px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.about-third-section {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 768px){
+    .about-third-section iframe {
+        width: 100%;
+    }
+    .about-first-section {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}

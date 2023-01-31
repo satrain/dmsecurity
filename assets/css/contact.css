@@ -1,0 +1,48 @@
+.contact-first-section {
+    background-color: #FFF;
+    padding: 116px 30px;
+}
+
+.contact-left-section h3 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 25px;
+    margin-bottom: 40px;
+
+    color: #000000;
+}
+
+.contact-left-section p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 5px;
+
+    color: #000000;
+}
+
+html .contact-right-section .nf-form-content input.ninja-forms-field {
+    background: rgba(1, 22, 39, 0.7);
+}
+
+html .contact-right-section .nf-form-content input.ninja-forms-field:not([type=button]):focus {
+    background: rgba(1, 22, 39, 0.7);
+}
+
+html .contact-right-section .nf-form-content textarea.ninja-forms-field {
+    background: rgba(1, 22, 39, 0.7);
+}
+
+html .contact-right-section #nf-field-13 {
+    background: #B6BFE0;
+}
+
+@media screen and (max-width: 768px){
+    .contact-first-section {
+        padding: 50px 10px;
+        text-align: center;
+    }
+}

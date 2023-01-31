@@ -9,7 +9,7 @@
                     <p>Implementacija softvera i aplikacija za jasno definisinje svih procesa u kompanijama koje se bave bezbednošću.</p>
                     <div class="buttons-wrapper">
                       <a href="/qr-patrol/" class="btn-primary">QR-Patrol</a>
-                      <a href="#video" class="btn-primary hero-watch-video-btn">Pogledajte Video</a>
+                      <!-- <a href="#video" class="btn-primary hero-watch-video-btn">Pogledajte Video</a> -->
                     </div>
                 </div>
                 <div class="gradient-hero-background"></div>
@@ -31,6 +31,27 @@
                 <div class="gradient-hero-background"></div>
             </div>
         </div>
+    </div>
+
+    <div class="counter-section">
+      <div class="counter-section-wrapper">
+        <div class="counter-item">
+          <span id="counter-one">54</span>
+          <p>Korisnika</p>
+        </div>
+        <div class="counter-item">
+          <span id="counter-two">119</span>
+          <p>Polaznika akademije</p>
+        </div>
+        <div class="counter-item">
+          <span id="counter-three">178</span>
+          <p>Konsalting sesija</p>
+        </div>
+        <div class="counter-item">
+          <span id="counter-four">240</span>
+          <p>Konsalting sesija</p>
+        </div>
+      </div>
     </div>
 
     <!-- about us -->
@@ -94,7 +115,21 @@
         Pružamo i usluge konsaltinga u delu organizacije.</p>
         <a href="/konsalting/" class="btn-primary">Saznaj više</a>
       </div>
-      <div class="consulting-down-fade"></div>
+      <div class="gradient-hero-background"></div>
+    </div>
+  </section>
+
+  <!-- QR-Patrol video -->
+  <section>
+    <div id="qr-patrol-video">
+        <span class="title_number">05</span>
+        <h2>Šta je QR-Patrol?</h2>
+        <div class="video-wrapper">
+          <video width="883" height="474" class="qr-patrol-video">
+            <source src="/wp-content/uploads/2023/01/QR-Patrol-guard-tour-system-Eng-Subs.mp4#t=2.5" type="video/mp4">
+          </video>
+          <button class="video-play-button"><img src="/wp-content/uploads/2023/01/video-play-btn-1.png" alt="play button"></button>
+        </div>
     </div>
   </section>
 
@@ -102,7 +137,7 @@
   <section>
     <div id="qr-patrol-digital">
       <div class="qr-patrol-digital-copy">
-        <span class="title_number">05</span>
+        <span class="title_number">06</span>
         <h2>Digitalizacija u usponu</h2>
         <p>Digitalizujte vaše poslovanje i na taj način ga učinite još profesionalnijim. Pogledajte naše digitalno rešenje QR-Patrol koje se zasniva na praćenju i zaštiti vaših radnika</p>
         <a href="/qr-patrol/" class="btn-primary">QR-Patrol</a>
@@ -113,7 +148,7 @@
   <!-- testimonials -->
   <section>
     <div id="testimonials">
-      <span class="title_number">06</span>
+      <span class="title_number">07</span>
       <h2>Zadovoljni Klijenti</h2>
 
       <div class="scroll-area">

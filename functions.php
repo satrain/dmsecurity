@@ -183,6 +183,16 @@ function dmsecurity_scripts() {
 
 	wp_enqueue_script('slider-script', get_template_directory_uri() .  '/assets/js/slider.js', array(), _S_VERSION, true);
 
+	if(is_front_page()) {
+		wp_enqueue_script('testimonials-script', get_template_directory_uri() .  '/assets/js/testimonials.js', array(), _S_VERSION, true);
+		wp_enqueue_script('counter-script', get_template_directory_uri() .  '/assets/js/counter.js', array(), _S_VERSION, true);
+		wp_enqueue_script('custom-video-script', get_template_directory_uri() .  '/assets/js/custom-video.js', array(), _S_VERSION, true);
+	}
+
+	if(is_page('QR-Patrol')) {
+		wp_enqueue_script('custom-video-script', get_template_directory_uri() .  '/assets/js/custom-video.js', array(), _S_VERSION, true);
+	}
+
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );
 	}
