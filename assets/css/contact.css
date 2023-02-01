@@ -40,9 +40,25 @@ html .contact-right-section #nf-field-13 {
     background: #B6BFE0;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1024px){
     .contact-first-section {
-        padding: 50px 10px;
+        padding: 50px 70px;
         text-align: left;
+    }
+    .page-template-contact .free-consultations-form .nf-form-cont {
+        padding: 0px 70px;
+    }
+    .contact-left-section p {
+        line-height: 29px;
+        margin-bottom: 0.5em;
+    }
+}
+
+@media screen and (max-width: 525px){
+    .contact-first-section {
+        padding: 50px 30px;
+    }
+    .page-template-contact .free-consultations-form .nf-form-cont {
+        padding: 0px 30px;
     }
 }
