@@ -201,26 +201,48 @@
     color: #000000;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1024px) {
+    .page-template-academy h2 {
+        font-size: 28px !important;
+        line-height: 34px !important;
+    }
+    .academy-first-section {
+        padding: 50px 70px;
+    }
     .academy-third-right img {
         margin-top: 40px;
     }
-    .page-template-academy h2 {
-        font-size: 30px;
-    }
-    .academy-first-section {
-        padding: 50px 20px;
-    }
     .academy-second-section {
-        padding: 50px 20px;
+        padding: 50px 70px;
     }
     .academy-third-section {
-        padding: 50px 20px;
+        padding: 50px 70px;
     }
     .academy-fourth-section {
-        padding: 60px 20px;
+        padding: 50px 70px;
     }
     .academy-fifth-section {
-        padding: 60px 20px;
+        padding: 50px 70px;
+    }
+}
+
+@media screen and (max-width: 525px) {
+    .academy-first-section {
+        padding: 50px 30px;
+    }
+    .academy-third-right img {
+        margin-top: 40px;
+    }
+    .academy-second-section {
+        padding: 50px 30px;
+    }
+    .academy-third-section {
+        padding: 50px 30px;
+    }
+    .academy-fourth-section {
+        padding: 50px 30px;
+    }
+    .academy-fifth-section {
+        padding: 50px 30px;
     }
 }
