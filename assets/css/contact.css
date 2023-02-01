@@ -43,6 +43,6 @@ html .contact-right-section #nf-field-13 {
 @media screen and (max-width: 768px){
     .contact-first-section {
         padding: 50px 10px;
-        text-align: center;
+        text-align: left;
     }
 }

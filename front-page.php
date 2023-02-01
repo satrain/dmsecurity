@@ -58,13 +58,13 @@
     <section>
       <div id="about-us" class="flexbox-section">
         <div class="about-us-wrapper">
-          <div class="about-us-copy flexbox-copy" data-aos="fade-right" data-aos-duration="1500">
+          <div class="about-us-copy flexbox-copy" data-aos="fade-right" data-aos-duration="1000">
             <span class="title_number">01</span>
             <h2>O nama</h2>
             <p>Naša kompanija je jedna od pionira u digitalizaciji procesa u sektoru bezbednosti. Osnovna delatnost nam je implementacija naših digitalnih rešenja - softvera i aplikacija za jasno definisinje svih procesa u kompanijama koje se bave bezbednošću.</p>
             <a href="/o-nama/" class="btn-primary">Više o nama</a>
           </div>
-          <img src="/wp-content/uploads/2023/01/o-nama-pocetna.png" alt="O nama" class="about-us-image">
+          <img src="/wp-content/uploads/2023/01/o-nama-pocetna.png" alt="O nama" class="about-us-image" data-aos="fade-left" data-aos-duration="1000">
         </div>
       </div>
     </section>
@@ -73,7 +73,7 @@
     <section>
       <div id="qr-patrol" class="flexbox-section">
         <div class="qr-patrol-wrapper">
-          <div class="qr-patrol-copy flexbox-copy">
+          <div class="qr-patrol-copy flexbox-copy" data-aos="fade-left" data-aos-duration="1000">
             <span class="title_number">02</span>
             <h2>QR-Patrol</h2>
             <p>QR-PATROL menja način nadgledanja vaših patrola tako što povećava efikasnost samih stražara i uporedo ih štiti u realnom vremenu.
@@ -81,7 +81,7 @@
             Budite transparentni sa vašim klijentom i na taj način povećajte vrednost vaših stražarskih usluga.</p>
             <a href="/qr-patrol/" class="btn-primary">Saznaj više</a>
           </div>
-          <img src="/wp-content/uploads/2023/01/qr-patrol-pocetna-slika.png" alt="QR-Patrol aplikacija" class="qr-patrol-image">
+          <img src="/wp-content/uploads/2023/01/qr-patrol-pocetna-slika.png" alt="QR-Patrol aplikacija" class="qr-patrol-image" data-aos="fade-right" data-aos-duration="1000">
         </div>
       </div>
     </section>
@@ -90,7 +90,7 @@
     <section>
       <div id="academy" class="flexbox-section">
         <div class="academy-wrapper">
-          <div class="academy-copy flexbox-copy">
+          <div class="academy-copy flexbox-copy" data-aos="fade-right" data-aos-duration="1000">
             <span class="title_number">03</span>
             <h2>Akademija</h2>
             <p>U okviru kompanije imamo i svoju Akademiju za edukaciju službenika obezbeđenja, službenika tehničke zaštite, procene rizika i vatrogasaca.
@@ -107,7 +107,7 @@
   <section>
     <div id="consulting">
       <div class="consulting-upper-fade gradient-hero-background"></div>
-      <div class="consulting-copy">
+      <div class="consulting-copy" data-aos="fade-right" data-aos-duration="1000">
         <span class="title_number">04</span>
         <h2>Konsalting</h2>
         <p>Pružamo i usluge konsaltinga u delu organizacije posla, izrade određenih rešenja, pravilnika i procedura za aktivnosti kompanija za obezbeđenje.
@@ -122,9 +122,9 @@
   <!-- QR-Patrol video -->
   <section>
     <div id="qr-patrol-video">
-        <span class="title_number">05</span>
-        <h2>Šta je QR-Patrol?</h2>
-        <div class="video-wrapper">
+        <span class="title_number" data-aos="fade-down" data-aos-duration="1500">05</span>
+        <h2 data-aos="fade-down" data-aos-duration="1000">Šta je QR-Patrol?</h2>
+        <div class="video-wrapper" data-aos="fade-up" data-aos-duration="1000">
           <video width="883" height="474" class="qr-patrol-video">
             <source src="/wp-content/uploads/2023/01/QR-Patrol-guard-tour-system-Eng-Subs.mp4#t=2.5" type="video/mp4">
           </video>
@@ -137,10 +137,10 @@
   <section>
     <div id="qr-patrol-digital">
       <div class="qr-patrol-digital-copy">
-        <span class="title_number">06</span>
-        <h2>Digitalizacija u usponu</h2>
-        <p>Digitalizujte vaše poslovanje i na taj način ga učinite još profesionalnijim. Pogledajte naše digitalno rešenje QR-Patrol koje se zasniva na praćenju i zaštiti vaših radnika</p>
-        <a href="/qr-patrol/" class="btn-primary">QR-Patrol</a>
+        <span class="title_number" data-aos="fade-down" data-aos-duration="1500">06</span>
+        <h2 data-aos="fade-down" data-aos-duration="1000">Digitalizacija u usponu</h2>
+        <p data-aos="fade-up" data-aos-duration="1000">Digitalizujte vaše poslovanje i na taj način ga učinite još profesionalnijim. Pogledajte naše digitalno rešenje QR-Patrol koje se zasniva na praćenju i zaštiti vaših radnika</p>
+        <a data-aos="fade-up" data-aos-duration="1000" href="/qr-patrol/" class="btn-primary">QR-Patrol</a>
       </div>
     </div>
   </section>
@@ -148,8 +148,8 @@
   <!-- testimonials -->
   <section>
     <div id="testimonials">
-      <span class="title_number">07</span>
-      <h2>Zadovoljni Klijenti</h2>
+      <span class="title_number" data-aos="fade-down" data-aos-duration="1500">07</span>
+      <h2 data-aos="fade-down" data-aos-duration="1000">Zadovoljni Klijenti</h2>
 
       <div class="scroll-area">
         <div class="wrapper">

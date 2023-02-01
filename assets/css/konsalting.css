@@ -118,36 +118,38 @@
 }
 
 @media screen and (max-width: 768px) {
-    .page-id-33 h2 { 
+    .page-template-konsalting h2{ 
         font-size: 40px;
         line-height: 46px;
+        text-align: left;
     }
     .konsalting-first-section {
         padding: 50px 20px;
+        text-align: left;
     }
     .konsalting-first-left-right {
         justify-content: center;
         flex-direction: column;
         padding: 50px 20px;
-        text-align: center;
+        text-align: left;
     }
     .konsalting-second-left-right {
         justify-content: center;
         flex-direction: column-reverse;
         padding: 50px 20px;
-        text-align: center;
+        text-align: left;
     }
     .konsalting-third-left-right {
         justify-content: center;
         flex-direction: column;
         padding: 50px 20px;
-        text-align: center;
+        text-align: left;
     }
     .konsalting-fourth-left-right {
         justify-content: center;
         flex-direction: column-reverse;
         padding: 50px 20px;
-        text-align: center;
+        text-align: left;
     }
     .konsalting-second-section img {
         margin-bottom: 30px;

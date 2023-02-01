@@ -1,0 +1,226 @@
+.academy-first-section {
+    padding: 108px 20px;
+    background-color: #FFF;
+}
+
+.academy-first-section-left {
+    max-width: 660px;
+}
+
+.academy-first-section-left ul {
+    margin: 0px;
+}
+
+.page-template-academy #page > div:not(.free-consultations) h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 44px;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.academy-first-section-left p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+
+    color: #000000;
+}
+
+.academy-first-section-left li {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 30px;
+    list-style: disc;
+
+    color: #000000;
+}
+
+.academy-second-section {
+    padding: 90px 20px;
+}
+
+.academy-second-section h2 {
+    color: #FFF!important;
+}
+
+.academy-second-section p {
+    font-size: 22px;
+    line-height: 29px;
+}
+
+.academy-third-section {
+    padding: 100px 20px;
+}
+
+.academy-third-left h2 {
+    color: #FFF!important;
+}
+
+.academy-third-left ul {
+    margin: 0;
+}
+
+.academy-third-left li {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    list-style: decimal;
+    
+    color: #FFFFFF;
+}
+
+.academy-third-left p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+}
+
+.academy-third-down ul {
+    margin: 0;
+}
+
+.academy-third-down h3{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 38px;
+    margin-top: 82px;
+
+    color: #FFFFFF;
+}
+
+.academy-third-down li {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    list-style: disc;
+
+    color: #FFFFFF;
+}
+
+.academy-fourth-section {
+    background: #FFF;
+    padding: 150px 20px;
+}
+
+.academy-fourth-section-left ul {
+    margin: 0px;
+}
+
+.academy-fourth-section li {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    list-style-type: disc;
+
+    color: #000000;
+}
+
+.academy-fourth-section p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+
+    color: #000000;
+}
+
+.academy-fourth-section ul {
+    margin: 0;
+}
+
+.academy-fourth-section a {
+    color: #0138C7;
+}
+
+.academy-fifth-section {
+    background: #fff;
+    padding: 120px 20px;
+}
+
+.academy-fifth-section h2 {
+    max-width: 700px;
+}
+
+.academy-fifth-section a {
+    color: #0138C7;
+}
+
+.academy-fifth-section li {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    list-style-type: disc;
+
+    color: #000000;
+}
+
+.academy-fifth-section ul {
+    margin: 0;
+}
+
+.academy-fifth-section p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+
+    color: #000000;
+}
+
+.academy-fifth-section span {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 38px;
+
+    color: #000000;
+}
+
+@media screen and (max-width: 768px){
+    .academy-third-right img {
+        margin-top: 40px;
+    }
+    .page-template-academy h2 {
+        font-size: 30px;
+    }
+    .academy-first-section {
+        padding: 50px 20px;
+    }
+    .academy-second-section {
+        padding: 50px 20px;
+    }
+    .academy-third-section {
+        padding: 50px 20px;
+    }
+    .academy-fourth-section {
+        padding: 60px 20px;
+    }
+    .academy-fifth-section {
+        padding: 60px 20px;
+    }
+}

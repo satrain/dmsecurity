@@ -165,10 +165,10 @@
 }
 
 @media screen and (max-width: 768px) {
-    .page-id-31 h2 {
+    .page-template-qr-patrol h2 {
         font-size: 36px;
         line-height: 42px;
-        text-align: center;
+        text-align: left;
     }
     .qr-patrol-wrapper {
         justify-content: center;
@@ -186,7 +186,7 @@
         padding-top: 50px;
         padding-left: 20px;
         padding-right: 20px;
-        text-align: center;
+        text-align: left;
     }
     .qr-patrol-first-section .qr-patrol-first-section-left ul{
         margin-top: 40px;
@@ -197,5 +197,11 @@
     .qr-patrol-fifth-section-icon-wrapper {
         justify-content: center;
         flex-direction: column;
+    }
+    .qr-patrol-fourth-section h2 {
+        text-align: left;
+    }
+    .qr-patrol-fourth-section p {
+        text-align: left;
     }
 }

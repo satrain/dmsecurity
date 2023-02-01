@@ -1,3 +1,11 @@
+jQuery(window).on('load', function () {
+    AOS.refresh();
+});
+
+jQuery(function () {
+    AOS.init();
+});
+
 // navigation on scroll effect
 const header = document.querySelector("header")
 

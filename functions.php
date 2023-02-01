@@ -199,6 +199,25 @@ function dmsecurity_scripts() {
 }
 add_action( 'wp_enqueue_scripts', 'dmsecurity_scripts' );
 
+
+function mind_defer_scripts( $tag, $handle, $src ) {
+	$defer = array( 
+	  'main-script',
+	  'slick-js',
+	  'aos-js',
+	  'testimonials-script',
+	  'slider-script',
+	  'counter-script',
+	  'custom-video-script'
+	);
+	if ( in_array( $handle, $defer ) ) {
+	   return '<script src="' . $src . '" defer="defer" type="text/javascript"></script>' . "\n";
+	}
+	  
+	  return $tag;
+  } 
+  add_filter( 'script_loader_tag', 'mind_defer_scripts', 10, 3 );
+
 /**
  * Implement the Custom Header feature.
  */
