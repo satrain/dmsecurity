@@ -56,37 +56,25 @@
 }
 
 @media screen and (max-width: 1024px) {
+    .about-third-section iframe {
+        width: 100%;
+    }
     .about-inner-page-hero {
         align-items: flex-end;
         padding-bottom: 50px;
         min-height: 240px;
     }
     .about-first-section {
+        text-align: left;
         padding: 50px 70px;
     }
     .about-third-section {
+        text-align: left;
         padding: 50px 70px;
     }
     .about-third-section h2 {
+        text-align: left;
         margin-bottom: 30px;
-    }
-}
-
-@media screen and (max-width: 768px){
-    .about-third-section iframe {
-        width: 100%;
-    }
-    .about-first-section {
-        text-align: left;
-    }
-    .about-second-section {
-        text-align: left;
-    }
-    .about-third-section h2{
-        text-align: left;
-    }
-    .about-third-section {
-        text-align: left;
     }
 }
 
