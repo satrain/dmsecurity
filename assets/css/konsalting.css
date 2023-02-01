@@ -117,38 +117,44 @@
     justify-content: space-between;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
+    .konsalting-first-section {
+        align-items: flex-start;
+    }
     .page-template-konsalting h2{ 
-        font-size: 40px;
-        line-height: 46px;
-        text-align: left;
+        text-align: left !important;
     }
     .konsalting-first-section {
-        padding: 50px 20px;
         text-align: left;
+        padding: 50px 70px;
     }
     .konsalting-first-left-right {
         justify-content: center;
         flex-direction: column;
-        padding: 50px 20px;
-        text-align: left;
+        padding: 35px 70px;
     }
-    .konsalting-second-left-right {
-        justify-content: center;
-        flex-direction: column-reverse;
-        padding: 50px 20px;
+    .konsalting-first-left-right {
         text-align: left;
-    }
-    .konsalting-third-left-right {
         justify-content: center;
         flex-direction: column;
-        padding: 50px 20px;
+        padding: 35px 70px;
+    }
+    .konsalting-second-left-right {
         text-align: left;
+        justify-content: center;
+        flex-direction: column-reverse;
+        padding: 35px 70px;
+    }
+    .konsalting-third-left-right {
+        text-align: left;
+        justify-content: center;
+        flex-direction: column;
+        padding: 35px 70px;
     }
     .konsalting-fourth-left-right {
         justify-content: center;
         flex-direction: column-reverse;
-        padding: 50px 20px;
+        padding: 35px 70px;
         text-align: left;
     }
     .konsalting-second-section img {
@@ -156,5 +162,38 @@
     }
     .konsalting-third-section-lists {
         flex-direction: column;
+    }
+    .konsalting-third-section {
+        padding: 50px 70px;
+    }
+}
+
+@media screen and (max-width: 525px) {
+    .konsalting-first-section {
+        padding: 50px 30px;
+    }
+    .konsalting-first-left-right {
+        padding: 35px 30px;
+    }
+    .konsalting-first-left-right {
+        padding: 35px 30px;
+    }
+    .konsalting-second-left-right {
+        padding: 35px 30px;
+    }
+    .konsalting-second-left-right {
+        padding: 35px 30px;
+    }
+    .konsalting-second-left-right {
+        padding: 35px 30px;
+    }
+    .konsalting-third-left-right {
+        padding: 35px 30px;
+    }
+    .konsalting-fourth-left-right {
+        padding: 35px 30px;
+    }
+    .konsalting-third-section {
+        padding: 50px 30px;
     }
 }
