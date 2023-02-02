@@ -1,0 +1,246 @@
+.page-template-qr-mob-app #page > div:not(.free-consultations) h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 44px;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.qr-patrol-inner-page-first-section p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.qr-patrol-inner-page-first-section h2{
+    text-align: center;
+}
+
+.qr-patrol-inner-page-first-section {
+    padding: 80px 0px;
+    background-color: #FFF;
+}
+
+.qr-patrol-inner-page-second-section p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+
+    color: #FFF;
+}
+
+.qr-patrol-inner-page-second-section {
+    padding: 80px 0px;
+}
+
+.qr-patrol-inner-page-second-section h2 {
+    color: #FFF !important;
+}
+
+.qr-patrol-inner-page-left-right {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.qr-patrol-inner-page-left-right-text {
+    max-width: 600px;
+}
+
+.qr-patrol-inner-page-third-section {
+    padding: 80px 0px;
+    background-color: #FFF;
+}
+
+.qr-patrol-inner-page-third-section p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+
+    color: #000000;
+}
+
+.qr-patrol-inner-page-third-section li {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    list-style: disc;
+
+    color: #000000;
+}
+
+.qr-patrol-inner-page-third-section ul {
+    margin: 0;
+    margin-bottom: 1.5em;
+}
+
+.qr-patrol-inner-page-fourth-section {
+    padding: 80px 0px;
+}
+
+.qr-patrol-inner-page-fourth-section p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+
+    color: #FFF;
+}
+
+.qr-patrol-inner-page-fourth-section li {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    list-style: disc;
+
+    color: #FFF;
+}
+
+.qr-patrol-inner-page-fourth-section ul {
+    margin: 0;
+    margin-bottom: 1.5em;
+}
+
+.qr-patrol-inner-page-fourth-section h2 {
+    color: #FFF !important;
+}
+
+.qr-patrol-inner-page-fifth-section {
+    padding: 80px 0px;
+    background-color: #FFF;
+}
+
+.qr-patrol-inner-page-fifth-section p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+
+    color: #000000;
+}
+
+.qr-patrol-inner-page-fifth-section li {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    list-style: disc;
+
+    color: #000000;
+}
+
+.qr-patrol-inner-page-fifth-section ul {
+    margin: 0;
+    margin-bottom: 1.5em;
+}
+
+.qr-patrol-inner-page-fifth-section img {
+    max-width: 500px;
+}
+
+.qr-patrol-inner-page-sixth-section p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #FFF;
+}
+
+.qr-patrol-inner-page-sixth-section {
+    padding: 80px 0px;
+}
+
+.qr-patrol-inner-page-sixth-section h2 {
+    color: #FFF !important;
+    text-align: center;
+}
+
+.qr-patrol-inner-page-button-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.qr-patrol-inner-page-button-wrapper a:first-child {
+    margin-right: 30px;
+}
+
+.qr-patrol-inner-page-seventh-section {
+    padding: 80px 0px;
+    background-color: #FFF;
+}
+
+.qr-patrol-inner-page-seventh-section p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+
+    color: #000000;
+}
+
+.qr-patrol-inner-page-seventh-section li {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    list-style: disc;
+
+    color: #000000;
+}
+
+.qr-patrol-inner-page-seventh-section ul {
+    margin: 0;
+    margin-bottom: 1.5em;
+}
+
+.qr-patrol-inner-page-eighth-section {
+    padding: 80px 0px;
+    background-color: #FFF;
+}
+
+.qr-patrol-inner-page-eighth-section h2 {
+    text-align: center;
+}
+
+.qr-patrol-inner-page-eighth-section p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.qr-patrol-inner-page-user-guide-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
