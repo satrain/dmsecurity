@@ -1,4 +1,4 @@
-.page-template-qr-mob-app #page > div:not(.free-consultations) h2 {
+.page-template-qr-mob-app #page > div:not(.free-consultations) h2, .page-template-qr-web-app #page > div:not(.free-consultations) h2 {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 800;
@@ -243,4 +243,20 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+
+.qr-patrol-web-app-first-section img {
+    margin-bottom: 40px;
+}
+
+.qr-patrol-web-app-sixth-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 80px 0px;
+}
+
+.qr-patrol-web-app-sixth-section h2 {
+    color: #FFF !important;
 }
