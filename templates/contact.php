@@ -8,8 +8,8 @@ get_header(); ?>
         <div class="contact-left-section">
             <h3>DMSecurity</h3>
             <p><a href="https://goo.gl/maps/FZAX91L1ULj7rBr4A" target="_blank">Gornjomatejevačka 98a/23, Niš, Srbija</a></p>
-            <p><a href="mailto: podrska@drdigital.rs"><span>podrska@dmsecurity-dt.com</span></a></p>
-            <p><a href="tel:0601000001">Telefon: <span>060 100 0001</span></a></p>
+            <p><a href="mailto: podrska@drdigital.rs"><span>info@dmsecurity-dt.com</span></a></p>
+            <p><a href="tel:0601000001">Telefon: <span>066 88 60 000</span></a></p>
         </div>
         <div class="contact-right-section free-consultations-form"><?php echo do_shortcode('[ninja_form id=3]'); ?></div>
     </div>

@@ -40,9 +40,9 @@ get_header(); ?>
             <p>Pretplatite se na QR-Patrol plan i dobijte <b>kompletnu kontrolu</b> nad vašim patrolama</p>
         </div>
         <div class="qr-patrol-third-img-hover-section">
-            <div><img src="/wp-content/uploads/2023/01/qr-patrol-security-guard.png"></div>
+            <div><img src="/wp-content/uploads/2023/02/benefiti-cuvar.png"></div>
             <div class="qr-patrol-third-hover-section">
-                <div>
+                <div class="qr-patrol-benefits-active">
                     <h3>Pratite rutu vaših stražara</h3>
                     <p>Pratite putanju izvršenih patrola uz pomoć opcije QR-Patrol <b>trail guards.</b> Sistem će prikazati detaljno grafiku na mapi koja pokazuje put kojim se kretao stražar tokom patrole.</p>
                 </div>
