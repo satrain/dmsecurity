@@ -120,7 +120,7 @@ get_header(); ?>
         <div class="qr-patrol-inner-page-user-guide-wrapper">
             <h2>A unique guard tour management solution</h2>
             <p>Get now the full User Guide of QR-Patrol web application and start patrolling in a much easier way!</p>
-            <a href="/wp-content/uploads/2023/02/qr-patrol-mobile-app-user-guide.pdf" class="btn-primary" target="_blank">Download QR-Patrol Web Application User Guide</a>
+            <a href="/wp-content/uploads/2023/02/qr-patrol-mobile-app-user-guide.pdf" class="btn-primary" target="_blank">Download Mobile Application User Guide</a>
         </div>
     </div>
 </div>

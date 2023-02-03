@@ -1,4 +1,4 @@
-.page-template-qr-mob-app #page > div:not(.free-consultations) h2, .page-template-qr-web-app #page > div:not(.free-consultations) h2, .page-template-qr-mars #page > div:not(.free-consultations) h2 {
+.page-template-qr-mob-app #page > div:not(.free-consultations) h2, .page-template-qr-web-app #page > div:not(.free-consultations) h2, .page-template-qr-mars #page > div:not(.free-consultations) h2, .page-template-qr-ppt #page > div:not(.free-consultations) h2 {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 800;
@@ -313,4 +313,61 @@
     align-items: center;
     justify-content: center;
     max-width: 500px;
+}
+
+.qr-patrol-ppt-first-section-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.qr-patrol-ppt-first-section-upper-lower {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 60px;
+}
+
+.qr-patrol-ppt-first-section-text-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    max-width: 350px;
+}
+
+.qr-patrol-ppt-first-section-text-wrapper p {
+    text-align: left;
+}
+
+.qr-patrol-ppt-first-section-text-wrapper h3 {
+    text-align: left;
+}
+
+.qr-patrol-ppt-third-section h2 {
+    text-align: center;
+}
+
+.qr-patrol-ppt-third-section p {
+    text-align: center;
+}
+
+.qr-patrol-ppt-third-section h3 {
+    text-align: center;
+}
+
+.qr-patrol-ppt-third-section-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.qr-patrol-ppt-third-section-icon-text-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.qr-patrol-ppt-fifth-section .qr-patrol-inner-page-user-guide-wrapper h2:nth-child(4) {
+    margin-top: 50px;
 }
