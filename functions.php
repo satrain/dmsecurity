@@ -172,6 +172,8 @@ function dmsecurity_scripts() {
     wp_enqueue_style('qr-patrol_style');
 	wp_register_style('konsalting_style', get_template_directory_uri() . '/assets/css/konsalting.css', array(), _S_VERSION, 'all');
     wp_enqueue_style('konsalting_style');
+	wp_register_style('qr-inner-pages_style', get_template_directory_uri() . '/assets/css/qr-inner-pages.css', array(), _S_VERSION, 'all');
+    wp_enqueue_style('qr-inner-pages_style');
 
 
 	wp_enqueue_style( 'dmsecurity-style', get_stylesheet_uri(), array(), _S_VERSION );
