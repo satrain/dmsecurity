@@ -77,6 +77,11 @@ span.title_number {
 }
 
 @media screen and (max-width: 1024px) {
+  html,
+  body {
+    overflow-x: hidden;
+  }
+
   h1 {
     font-size: 36px;
     line-height: 48px;
@@ -284,6 +289,7 @@ header {
   header {
     padding-left: 30px;
     padding-right: 30px;
+    width: 100vw;
   }
 
   .header-con {
@@ -343,6 +349,13 @@ header {
   .header-logo {
     width: 150px!important;
     height: 99px!important;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header-logo {
+    width: 125px!important;
+    height: 80px!important;
   }
 }
 /* END burger style */
@@ -681,12 +694,31 @@ header {
 }
 
 @media screen and (max-width: 900px) {
+  #qr-patrol-video {
+    padding-bottom: 100px;
+  }
+
   .video-wrapper video {
     width: 100%;
   }
 
   .video-play-button img {
     width: 55px;
+  }
+}
+
+@media screen and (max-width: 525px) {
+  #qr-patrol-video {
+    padding-bottom: 50px;
+  }
+
+  .video-wrapper {
+    padding: 0 30px;
+    margin: 0 auto!important;
+  }
+
+  .video-wrapper video {
+    height: 220px!important;
   }
 }
 
@@ -717,7 +749,7 @@ header {
 
 @media screen and (max-width: 540px) {
   #qr-patrol-digital {
-    padding: 0 30px 50px;
+    padding: 50px 30px 70px;
   }
 }
 
@@ -725,7 +757,7 @@ header {
 /* TESTIMONIALS - Mobile */
 #testimonials{
     background: #fff;
-    padding: 45px 0;
+    padding: 45px 0 0;
   }
   #testimonials > h2{
     text-align: center;
@@ -1107,11 +1139,16 @@ footer .container > div ul li a span {
 
 @media screen and (max-width: 880px) {
     .free-consultations {
-        padding: 50px 0;
+        padding: 50px 30px;
     }
     
     .free-consultations .container {
         flex-direction: column;
+        padding: 0!important;
+    }
+
+    .free-consultations .nf-form-content {
+      padding: 0!important;
     }
 
     .free-consultations-form {
@@ -1120,11 +1157,11 @@ footer .container > div ul li a span {
 
     html .free-consultations-form .nf-form-cont {
         width: 100vw;
-        padding: 0 26px;
+        padding: 0 30px;
     }
 
     footer {
-        padding: 50px 0 40px;
+        padding: 50px 30px 40px;
     }
 
     footer .company {
@@ -1133,6 +1170,15 @@ footer .container > div ul li a span {
 
     footer .container {
         flex-direction: column;
+        padding: 0!important;
+    }
+
+    footer .other {
+      display: none!important;
+    }
+
+    footer .contact {
+      margin-top: 10px!important;
     }
 
     footer iframe {

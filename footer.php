@@ -59,8 +59,8 @@
             <div class="contact">
                 <p>Kontakt</p>
                 <ul>
-                    <li><a href="tel:0601000001">Telefon: <span>060 100 0001</span></a></li>
-                    <li><a href="mailto: podrska@drdigital.rs">Podrška: <span>podrska@dmsecurity-dt.com</span></a></li>
+                    <li><a href="tel:0601000001">Telefon: <span>066 88 60 000</span></a></li>
+                    <li><a href="mailto: podrska@drdigital.rs">Podrška: <span>info@dmsecurity-dt.com</span></a></li>
                     <li><a href="/kontakt/">Online Kontakt Forma</a></li>
                 </ul>
             </div>

@@ -193,6 +193,7 @@ function dmsecurity_scripts() {
 
 	if(is_page('QR-Patrol')) {
 		wp_enqueue_script('custom-video-script', get_template_directory_uri() .  '/assets/js/custom-video.js', array(), _S_VERSION, true);
+		wp_enqueue_script('qr-patrol-script', get_template_directory_uri() .  '/assets/js/qr-patrol.js', array(), _S_VERSION, true);
 	}
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
