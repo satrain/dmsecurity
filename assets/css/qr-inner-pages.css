@@ -1,4 +1,4 @@
-.page-template-qr-mob-app #page > div:not(.free-consultations) h2, .page-template-qr-web-app #page > div:not(.free-consultations) h2 {
+.page-template-qr-mob-app #page > div:not(.free-consultations) h2, .page-template-qr-web-app #page > div:not(.free-consultations) h2, .page-template-qr-mars #page > div:not(.free-consultations) h2 {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 800;
@@ -259,4 +259,58 @@
 
 .qr-patrol-web-app-sixth-section h2 {
     color: #FFF !important;
+}
+
+.qr-patrol-mars-first-section img {
+    margin-bottom: 30px;
+}
+
+.qr-patrol-mars-fifth-section {
+    padding: 80px 0px;
+    background-color: #FFF;
+}
+
+.qr-patrol-mars-fifth-section h2 {
+    text-align: center;
+}
+
+.qr-patrol-mars-fifth-section p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+.qr-patrol-mars-fifth-section > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.qr-patrol-mars-eighth-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.qr-patrol-mars-eighth-section-left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 500px;
+}
+
+.qr-patrol-mars-eighth-section-right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 500px;
 }

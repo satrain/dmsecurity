@@ -80,8 +80,10 @@ get_header(); ?>
 </div>
 
 <div class="qr-patrol-web-app-sixth-section">
-    <div><h2>Manage schedules and routes</h2></div>
-    <div><img src="/wp-content/uploads/2023/02/web-app-sixth-section-image.png"></div>
+    <div class="inner-page-container">
+        <div><h2>Manage schedules and routes</h2></div>
+        <div><img src="/wp-content/uploads/2023/02/web-app-sixth-section-image.png"></div>
+    </div>
 </div>
 
 <div class="qr-patrol-inner-page-sixth-section">
