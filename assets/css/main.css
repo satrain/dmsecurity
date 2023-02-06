@@ -64,6 +64,28 @@ li {
   transition: .3s;
 }
 
+.btn-secondary {
+  display: inline-block;
+  padding: 21px 40px;
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  text-transform: uppercase;
+  
+  text-align: center;
+  color: #FFFFFF;
+  background: #F2950A;
+  transition: .3s;
+}
+
+.btn-secondary:hover {
+  background: #cc7a00;
+  color: #fff;
+  transition: .3s;
+}
+
 span.title_number {
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
