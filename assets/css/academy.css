@@ -1,3 +1,41 @@
+.form-signup-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 15px;
+    background: #2196F3;
+    transform: translateY(100%);
+    transition: 2s;
+}
+
+.form-signup-banner * {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+
+.form-signup-banner p {
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.form-signup-banner a {
+    text-decoration: underline;
+}
+
+.form-signup-banner span {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    cursor: pointer;
+}
+
 .academy-first-section {
     padding: 108px 20px;
     background-color: #FFF;
@@ -202,6 +240,10 @@
 }
 
 @media screen and (max-width: 1024px) {
+    .form-signup-banner * {
+        font-size: 16px;
+    }
+
     .page-template-academy h2 {
         font-size: 28px !important;
         line-height: 34px !important;
