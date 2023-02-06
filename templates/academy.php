@@ -82,7 +82,11 @@ get_header(); ?>
                 <li>Fotokopija diplome SSS</li>
                 <li>Dokaz o uplati pojedinačne cene obuke u korist Special Security</li>
             </ul><br>
-            <p>Sva dokumenta donose se u originalu na uvid pri predaji dokumentacije.</p>
+            <p>
+                Sva dokumenta donose se u originalu na uvid pri predaji dokumentacije.
+                <br><br>
+                <a href="#" class="signup-academy-link">Upišite se na akademiju online</a>
+            </p>
         </div>
         <div class="academy-fourth-section-right">
             <img src="/wp-content/uploads/2023/02/academy-fourth-section-image.png">

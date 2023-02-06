@@ -35,11 +35,12 @@
                 <ul>
                   <li><a href="<?php echo get_site_url(); ?>">Početna</a></li>
                     <li class="h-about"><a href="/o-nama/">O nama</a></li>
-                    <li class="h-projects"><a href="/konsalting/">Konsalting</a></li>
+                    <li class="h-community"><a href="/qr-patrol/">QR-Patrol</a></li>
                     <li class="h-projects"><a href="/akademija/">Akademija</a></li>
+                    <li class="h-projects"><a href="/konsalting/">Konsalting</a></li>
                     <li class="h-community"><a href="/kontakt/">Kontakt</a></li>
                     <!--<li class="h-blog"><a href="#">blog</a></li>-->
-                    <button class="header-button" onclick="window.location.href='<?php echo get_site_url(); ?>/qr-patrol/'">Qr-Patrol</button>
+                    <button class="header-button" onclick="window.open('https://followmystaff.com/', '_blank')">Uloguj se</button>
                 </ul>
             </nav>
             
