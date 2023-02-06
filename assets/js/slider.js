@@ -45,4 +45,15 @@ jQuery(document).ready(function($) {
     .on('afterChange', onSliderAfterChange)
     .on('wheel', onSliderWheel);
   
+    $('.qr-patrol-slider-wrapper').slick({
+      slidesToShow: 3,
+      slidesToScroll: 1,
+      autoplay: true,
+      autoplaySpeed: 0,
+      speed: 8000,
+      pauseOnHover: false,
+      cssEase: 'linear',
+      infinite: true
+    });
+
   });
