@@ -54,22 +54,22 @@ get_header(); ?>
         <h2>u ponudi imamo</h2>
         <div class="qr-patrol-products-wrapper">
             <div class="qr-patrol-product">
-                <img src="/wp-content/uploads/2023/02/qr-patrol-mobile-app-img.png">
+                <img src="/wp-content/uploads/2023/02/qrpatrol-box-new-1.png">
                 <h4>QR-Patrol mobilna app</h4>
                 <a href="/qr-patrol/qr-patrol-mobilna-aplikacija/" class="btn-primary">saznajte više</a>
             </div>
             <div class="qr-patrol-product">
-                <img src="/wp-content/uploads/2023/02/qr-patrol-ppt-img.png">
+                <img src="/wp-content/uploads/2023/02/webapp-box-new-1.png">
                 <h4>QR-Patrol web app</h4>
                 <a href="/qr-patrol/qr-patrol-web-aplikacija/" class="btn-primary">saznajte više</a>
             </div>
             <div class="qr-patrol-product">
-                <img src="/wp-content/uploads/2023/02/qr-patrol-mars-img.png">
+                <img src="/wp-content/uploads/2023/02/mars-box-homepage-1.png">
                 <h4>QR-Patrol M.A.R.S</h4>
                 <a href="/qr-patrol/qr-patrol-m-a-r-s/" class="btn-primary">saznajte više</a>
             </div>
             <div class="qr-patrol-product">
-                <img src="/wp-content/uploads/2023/02/qr-patrol-web-app-img.png">
+                <img src="/wp-content/uploads/2023/02/ptt-box-homepage-1.png">
                 <h4>QR-Patrol PTT</h4>
                 <a href="/qr-patrol/qr-patrol-ppt/" class="btn-primary">saznajte više</a>
             </div>
@@ -173,81 +173,68 @@ get_header(); ?>
     </div>
 </div>
 
-<section>
     <div id="testimonials">
-      <span class="title_number" data-aos="fade-down" data-aos-duration="1500">07</span>
       <h2 data-aos="fade-down" data-aos-duration="1000">Zadovoljni Klijenti</h2>
 
       <div class="scroll-area">
         <div class="wrapper">
           <div class="testimonial">
             <div class="quote">
-              <p>MVP Workshop made our switch from building web applications to building decentralized platforms for our clients easy. Their team worked with us to design blockchain architecture solutions for several projects. <br><br>They didn’t just do the job, but they educated our people in the process, so we are now much better equipped to tackle new projects!</p>
+              <p>" The QR Patrol app is a fantastic app to monitor your guarding staff and all reports are available online. The mobile app and the web app work flawlessly. The set up is very easy and Sofia and James were very helpful to answer any pre-sale questions."</p>
             </div>
             <div class="person">
-              <img src="https://mvpworkshop.co/wp-content/uploads/2018/08/vuk-popovic-150x150.jpg" alt="Vuk Popovic">
-
               <div class="details">
-                <strong>Vuk Popovic</strong>
-                <span>CEO, Quantox</span>
+                <strong>Talal Sadiq</strong>
+                <span>Director at Prolink Security</span>
               </div>
             </div>
           </div>
           <div class="testimonial">
             <div class="quote">
-              <p>After working closely with the MVP Workshop team on our decentralized platform and the ICO, both on tech and business side, I can say that they are one of the very few true professionals that are experts in both spheres of the blockchain space. <br><br> One thing that especially impressed us was their expertise in token economy models. With the very hands on approach and pragmatic advice, their support continues to be invaluable for our project.</p>
+              <p>Benefits to the Jamaican Police Force: Increased efficiency in operational analysis with the utilization of verified data (Geo Referenced) and Centralized planning and coordination of Patrol teams and sending the patrol routs through the application </p>
             </div>
             <div class="person person-petars">
-              <img src="https://mvpworkshop.co/wp-content/uploads/2018/08/petar-slovic-150x150.jpg" alt="Petar Slovic">
-
               <div class="details">
-                <strong>Petar Slovic</strong>
-                <span>COO, Review.Network</span>
+                <strong>Donovan Henderson</strong>
+                <span>Case Management Unit (CMU) - Jamaican Police Force</span>
               </div>
             </div>
           </div>
           <div class="testimonial current">
             <div class="quote">
-              <p>I have been working with developers for over 30 years and MVP Workshop is as professional as it gets. Over the past year we’ve been extremely impressed with their communication, their commitment, and most importantly, their ability to ship products on schedule. <br><br>We will continue to work with them for many years to come.</p>
+              <p>We are excited about using your product, we believe it will help us be more productive in our security area.</p>
             </div>
             <div class="person">
-              <img src="https://mvpworkshop.co/wp-content/uploads/2018/12/alex-masinski-150x150.jpg" alt="Alex Mashinsky">
-
               <div class="details">
-                <strong>Alex Mashinsky</strong>
-                <span>CEO, Celsius Network</span>
+                <strong>Terrance Washington</strong>
+                <span>IT Manager The Westin Houston Memorial City</span>
               </div>
             </div>
           </div>
           <div class="testimonial">
             <div class="quote">
-              <p>MVP Workshop simply delivers. Their team has both a broad scope of knowledge and experience to take cutting-edge, top-notch projects from ideation to mockups all the way to production. <br><br>The product and project management is the best I’ve ever worked with, these guys know how to hit their deadlines.</p>
+              <p>Working from home is a joy with the system… thank goodness for the little things.</p>
             </div>
             <div class="person">
-              <img src="https://mvpworkshop.co/wp-content/uploads/2018/08/keith-baumwald-150x150.jpg" alt="Keith">
-
               <div class="details">
-                <strong>Keith Baumwald</strong>
-                <span>CMO, Celsius Network</span>
+                <strong>Sarah Grayburn</strong>
+                <span>Security Patrol Co Ordinator at Heathrow</span>
               </div>
             </div>
           </div>
           <div class="testimonial">
             <div class="quote">
-              <p>MVP Workshop exudes calm under pressure and raging professionalism in their communication and reliable execution. <br><br> They are willing to take risks with us, experiment, and break new ground -- all while deftly weighing out business pressures, industry and technology conditions, and customer interests alongside wily product requirements.</p>
+              <p>Thank you! We recently won a new contract based on our use of technology and QR-Patrol system! </p>
             </div>
             <div class="person">
-              <img src="https://mvpworkshop.co/wp-content/themes/MVPWorkshop/images/services/aaron-wood-swarm.png" alt="Aaron Wood">
-
               <div class="details">
-                <strong>Aaron Wood</strong>
-                <span>Business Developer, Swarm</span>
+                <strong>Exclusec UK</strong>
+                <span>Security Services company</span>
               </div>
             </div>
           </div>
         </div>
       </div>
     </div>
-  </section>
 
 <?php get_footer(); ?>

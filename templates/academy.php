@@ -2,7 +2,10 @@
 get_header(); ?>
 
 <?php get_template_part( 'template-parts/content', 'inner-hero' ); ?>
-
+<div class="form-signup-banner">
+    <p>upišite se na akademiju online. <a href="#" id="academy-banner-btn">kliknite ovde</a> za prijavu</p>
+    <span id="close-academy-banner">X</span>
+</div>
 <div class="academy-first-section">
     <div class="inner-page-container qr-patrol-wrapper">
         <div class="academy-first-section-left">
@@ -73,13 +76,17 @@ get_header(); ?>
             <h2>prijava kandidata</h2>
             <p>Obuka službenika obezbeđenja sprovodi se u učionici, traje 101 čas i sastoji se od:</p>
             <ul>
-                <li>Prijava za obuku <a href="#">(Obrazac)</a></li>
+                <li>Prijava za obuku</li>
                 <li>Fotokopija važeće lične karte (ili odštampana lična karta sa čipom)</li>
                 <li>Fotokopija Uverenja o državljanstvu</li>
                 <li>Fotokopija diplome SSS</li>
                 <li>Dokaz o uplati pojedinačne cene obuke u korist Special Security</li>
             </ul><br>
-            <p>Sva dokumenta donose se u originalu na uvid pri predaji dokumentacije.</p>
+            <p>
+                Sva dokumenta donose se u originalu na uvid pri predaji dokumentacije.
+                <br><br>
+                <a href="#" class="signup-academy-link">Upišite se na akademiju online</a>
+            </p>
         </div>
         <div class="academy-fourth-section-right">
             <img src="/wp-content/uploads/2023/02/academy-fourth-section-image.png">
@@ -92,7 +99,7 @@ get_header(); ?>
         <h2>polaganje stručnog ispita pred komisijom mupa</h2>
         <p>Polaznici koji steknu uslove za polaganje Stručnog ispita pred komisijom MUP-a, lično predaju sledeću dokumentaciju u teritorijalno nadležnu policijsku upravu (na osnovu prebivališta ili boravišta):</p>
         <ul>
-            <li>Prijava za polaganje Stručnog ispita <a href="#">(Obrazac)</a></li>
+            <li>Prijava za polaganje Stručnog ispita</li>
             <li>Potvrda o obučenosti koju je izdala DMS Akademija</li>
             <li>Fotokopija važeće lične karte (ili odštampana lična karta sa čipom)</li>
             <li>Dokaz o uplaćenoj naknadi za polaganje</li>

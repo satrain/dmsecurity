@@ -807,7 +807,7 @@ header {
 
     float: left;
     width: calc(100vw - 60px);
-    height: 500px;
+    height: 320px;
     padding: 15px 0px 0px 2px;
     margin: 0 calc(8px - 5vw);
     position: relative;
@@ -855,7 +855,7 @@ color: #000000;
   }
   #testimonials .details{
     height: 70px;
-    margin: 6px 0 0 90px;
+    margin: 6px 0 0 5px;
   }
   #testimonials strong{
     font-family: 'Montserrat', sans-serif;
@@ -938,7 +938,7 @@ background-size: 100% 100%;
       background-position: top 0 left 73px;
 
       width: 680px;
-      height: 450.49px;
+      height: 350.49px;
       padding: 82px 95px 0 77px;
       margin: 0 60px;
       transform: none;
