@@ -33,10 +33,10 @@ get_header(); ?>
         <img src="/wp-content/uploads/2023/02/g4s-logo_0.png">
         <img src="/wp-content/uploads/2023/02/GuardForce-logo.png">
         <img src="/wp-content/uploads/2023/02/ikea-logo_0.png">
-        <img src="/wp-content/uploads/2023/02/securitas-logo.png">
-        <img src="/wp-content/uploads/2023/02/g4s-logo_0.png">
-        <img src="/wp-content/uploads/2023/02/GuardForce-logo.png">
-        <img src="/wp-content/uploads/2023/02/ikea-logo_0.png">
+        <img src="/wp-content/uploads/2023/02/Pfizer-logo.png">
+        <img src="/wp-content/uploads/2023/02/marriott-logo_0.png">
+        <img src="/wp-content/uploads/2023/02/Egroup-logo.png">
+        <img src="/wp-content/uploads/2023/02/honda-logo.png">
     </div>
       <!-- QR-Patrol video -->
     <div id="qr-patrol-video">

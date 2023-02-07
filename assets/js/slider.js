@@ -53,7 +53,23 @@ jQuery(document).ready(function($) {
       speed: 8000,
       pauseOnHover: false,
       cssEase: 'linear',
-      infinite: true
+      infinite: true,
+      responsive: [
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 2,
+            arrows: false,
+          },
+        },
+        {
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 1,
+            arrows: false,
+          },
+        },
+      ],
     });
 
   });

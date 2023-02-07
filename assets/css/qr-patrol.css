@@ -81,7 +81,7 @@
 }
 
 .qr-patrol-slider-wrapper img {
-    width: 400px !important;
+    width: 300px !important;
     margin-left: 23px;
     margin-right: 23px;
 }
@@ -233,8 +233,13 @@
     margin-top: 70px;
 }
 
+.qr-patrol-fourth-section-wrapper {
+    padding: 0;
+}
+
 .qr-patrol-subscription-wrapper {
-    width: 340px;
+    width: 100%;
+    max-width: 340px;
     background: url(.png), radial-gradient(90.16% 143.01% at 15.32% 21.04%, rgba(165, 239, 255, 0.2) 0%, rgba(110, 191, 244, 0.0447917) 77.08%, rgba(70, 144, 213, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
     background-blend-mode: overlay, normal;
     backdrop-filter: blur(40px);
@@ -355,7 +360,7 @@
         margin-top: 40px;
     }
     .qr-patrol-fourth-section-wrapper {
-        padding: 0 20px;
+        padding: 0;
     }
     .qr-patrol-fourth-section h2 {
         text-align: left;
@@ -393,6 +398,32 @@
         justify-content: center;
         margin-top: 30px;
     }
+    .qr-patrol-third-hover-section {
+        margin-top: 20px;
+    }
+    .qr-patrol-third-hover-section > div {
+        position: relative;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        background: #fff;
+        transition: .5s;
+    }
+    
+    .qr-patrol-third-hover-section > div::before {
+        content: '';
+        position: absolute;
+        width: 7px;
+        height: 100%;
+        left: 0;
+        top: 0;
+        background: #2196F3;
+    }
+    .qr-patrol-third-hover-section p {
+        height: auto;
+        opacity: 1;
+    }
+    .qr-patrol-second-section #qr-patrol-video {
+        padding-top: 0;
+    }
     .qr-patrol-subscription-wrapper {
         margin-top: 30px;
     }
@@ -416,5 +447,11 @@
     .qr-patrol-olaksajte-poslovanje-button-wrapper a:first-child {
         margin-right: 0px;
         margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .qr-patrol-subscription-wrapper {
+        max-width: 100%;
     }
 }
