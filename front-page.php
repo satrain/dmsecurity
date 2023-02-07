@@ -6,7 +6,7 @@
             <div>
                 <div class="slide-copy">
                     <h1>Digitalna rešenja u sektoru bezbednosti</h1>
-                    <p>Implementacija softvera i aplikacija za jasno definisinje svih procesa u kompanijama koje se bave bezbednošću.</p>
+                    <p>Implementacija softvera i aplikacija za jasno definisanje svih procesa u kompanijama koje se bave bezbednošću.</p>
                     <div class="buttons-wrapper">
                       <a href="/qr-patrol/" class="btn-primary">QR-Patrol</a>
                       <!-- <a href="#video" class="btn-primary hero-watch-video-btn">Pogledajte Video</a> -->
@@ -25,7 +25,7 @@
             <div>
                 <div class="slide-copy">
                     <h1>Akademija za edukaciju</h1>
-                    <p>Akademija za edukacju službenika obezbeđenja, službenika tehničke zaštite, procene rizika i vatrogasaca.</p>
+                    <p>Akademija za edukaciju službenika obezbeđenja, službenika tehničke zaštite, procene rizika i vatrogasaca.</p>
                     <a href="/akademija/" class="btn-primary">Upišite se</a>
                 </div>
                 <div class="gradient-hero-background"></div>
@@ -48,8 +48,8 @@
           <p>Konsalting sesija</p>
         </div>
         <div class="counter-item">
-          <span id="counter-four">240</span>
-          <p>Konsalting sesija</p>
+          <span id="counter-four">351</span>
+          <p>Zadovoljnih klijenata</p>
         </div>
       </div>
     </div>
@@ -92,11 +92,27 @@
         <div class="academy-wrapper">
           <div class="academy-copy flexbox-copy" data-aos="fade-right" data-aos-duration="1000">
             <span class="title_number">03</span>
-            <h2>Akademija</h2>
-            <p>U okviru kompanije imamo i svoju Akademiju za edukaciju službenika obezbeđenja, službenika tehničke zaštite, procene rizika i vatrogasaca.
-            <br><br>
-            U okviru kompanije imamo i svoju Akademiju za edukaciju službenika.</p>
-            <a href="/akademija/" class="btn-primary">Saznaj više</a>
+            <div class="academy-copy-wrapper">
+              <h2>Akademija</h2>
+              <p>U okviru kompanije imamo i svoju Akademiju za edukaciju. Vršimo obuku za dobijanje sledećih licenci:</p>
+              <ul>
+                  <li>Licencu za procenu rizika u zaštiti lica, imovine i poslovanja</li>
+                  <li>Licencu za vršenje poslova fizičko-tehničke zaštite: - bez oružja
+                      <p>
+                          - Licencu za vršenje osnovnih poslova službenika obezbeđenja<br>
+                          - Licencu za vršenje specijalističkih poslova službenika obezbeđenja - sa oružjem
+                      </p>
+                  </li>
+                  <li>Licencu za vršenje poslova tehničke zaštite
+                      <p>
+                          - Licencu za vršenje poslova planiranja sistema tehničke zaštite<br>
+                          - Licencu za vršenje poslova projektovanja i nadzora nad izvođenjem sistema tehničke zaštite<br>
+                          - Licencu za vršenje poslova montaže, puštanja u rad, održavanja sistema tehničke zaštite i obuke korisnika
+                      </p>
+                  </li>
+              </ul>
+              <a href="/akademija/" class="btn-primary">Saznaj više</a>
+            </div>
           </div>
           <img src="/wp-content/uploads/2023/01/akademija-pocetna-slika.png" alt="Akademija za edukaciju" class="academy-image">
         </div>
