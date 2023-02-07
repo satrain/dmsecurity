@@ -973,10 +973,6 @@ background-size: 100% 100%;
       padding: 5% 4% 5% 4%;
     }
 
-    #testimonials .testimonial.current{
-      /*margin-left: 0;*/
-    }
-
     #testimonials .person{
       bottom: 46px;
       left: 95px;
