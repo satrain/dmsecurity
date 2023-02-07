@@ -98,6 +98,31 @@ span.title_number {
     color: #2196F3;
 }
 
+.academy-copy-wrapper ul {
+  margin: 0px;
+}
+
+.academy-copy-wrapper p {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 30px;
+
+  color: #FFF;
+}
+
+.academy-copy-wrapper li {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 30px;
+  list-style: disc;
+
+  color: #FFF;
+}
+
 @media screen and (max-width: 1024px) {
   html,
   body {

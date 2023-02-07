@@ -56,7 +56,7 @@ var handler = onVisibilityChange(counterWrapper, function() {
   animateValue(counter3, 0, 178, 1500);
 
   const counter4 = document.getElementById("counter-four");
-  animateValue(counter4, 0, 240, 1500);
+  animateValue(counter4, 0, 351, 1500);
 });
 
 if (window.addEventListener) {

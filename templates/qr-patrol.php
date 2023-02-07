@@ -8,7 +8,7 @@ get_header(); ?>
         <div class="qr-patrol-first-section-left">
             <h2>Sistem za praćenje obilaska stražara</h2>
             <ul>
-                <li>Aplikacija dostupna na telefonu i veb-sajtu</li>
+                <li>Aplikacija dostupna na telefonu i web-sajtu</li>
                 <li>Događaji u realnom vremenu & SOS Alarm</li>
                 <li>Sistem u ‘oblaku’ - daljinsko upravljanje</li>
                 <li>Napredni (detaljni) izveštaji</li>
@@ -153,7 +153,7 @@ get_header(); ?>
         <img src="/wp-content/uploads/2023/02/qr-patrol-sistem-obilaska-img.png">
         <div class="qr-patrol-sistem-obilaska-section-text">
             <h2>qr-patrol sistem stražarskih obilaska</h2>
-            <p>QR-Patrol je online sistem stražarskih obilaska u realnom vremenu baziran na tagovima kao što su NFC, Beacon i QR-kod. Osoblje skenira oznake postavljene na lokacijama i sredstvima i centar za praćenje je informisan o svim incidentima i dešavanjima u realnom vremenu. Kada god je QR-kod, NFC tag ili Beacon skeniran, informacija se salje do QR-Patrol veb aplikacije putem klaud servera i osoblje dobija momentalnu kontrolu nad građevinama i lokacijama širom sveta.</p>
+            <p>QR-Patrol je online sistem stražarskih obilaska u realnom vremenu baziran na tagovima kao što su NFC, Beacon i QR-kod. Osoblje skenira oznake postavljene na lokacijama i sredstvima i centar za praćenje je informisan o svim incidentima i dešavanjima u realnom vremenu. Kada god je QR-kod, NFC tag ili Beacon skeniran, informacija se salje do QR-Patrol web aplikacije putem klaud servera i osoblje dobija momentalnu kontrolu nad građevinama i lokacijama širom sveta.</p>
             <p>Svaki stražar koji vrši obilazak je naoružan jedinstvenom tehnologijom. On sada može da upravlja svim svojim poslom putem pametnog telefona i takođe da izvrši patrolu u potpunoj kontroli incidenata koji se dešavaju. Sa mogućnošću da priložite sliku, glasovnu poruku, beleške ili potpis skeniranih stvari, inspekcije i patrole su znatno poboljšane. Osim toga, osoblje obezbeđenja mogu istog momenta informisati menadžere koji su odgovorni za nadgledanje imovine i lokacija.</p>
             <p>Bilo kakva vrsta imovine i građevina, od odeljenja, lokacija, skladišta do transportnih oblasti, aerodroma, prodavnica i udaljena područja mogu se postaviti pod potpunu kontrolu obzirom da menadžeri objekata i osoblje mogu da obrađuju gomilu informacija za svakog klijenta samo sa jedne lokacije.</p>
         </div>

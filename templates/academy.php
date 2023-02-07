@@ -39,7 +39,7 @@ get_header(); ?>
     <p><b>TEORIJSKOG DELA</b> - 66 časova nastave koja se održava u savremeno opremljenim učionicama</p>
     <p><b>PRAKTIČNOG DELA</b> - 35 časova obuke u primeni fizičke snage koja se izvodi od strane licenciranog operativnog trenera</p>
     <p>Svaki polaznik je osiguran za vreme obuke, a osiguranje pokriva troškove lečenja, kao i eventualni invaliditet ili smrt usled nezgode.</p>
-    <p>Obuka radnika fizičkog obezbedjenja završava se ispitom u DMS akademiji . Ispit mogu da polažu samo polaznici koji su prisustvovali svim časovima obuke. Test se sastoji od 25 pitanja iz programa stručne obuke, s ponuđenim odgovorima, i popunjava se zaokruživanjem jednog ili više od ukupno dva ili više ponuđenih odgovora na svako pitanje. Da bi položio završni ispit, polaznik mora tačno da odgovori na najmanje 18 pitanja na testu.</p>
+    <p>Obuka radnika fizičkog obezbeđenja završava se ispitom u DMS akademiji . Ispit mogu da polažu samo polaznici koji su prisustvovali svim časovima obuke. Test se sastoji od 25 pitanja iz programa stručne obuke, s ponuđenim odgovorima, i popunjava se zaokruživanjem jednog ili više od ukupno dva ili više ponuđenih odgovora na svako pitanje. Da bi položio završni ispit, polaznik mora tačno da odgovori na najmanje 18 pitanja na testu.</p>
     <p>Polaznicima koji polože završni ispit u Centru za obuku DMS akademije izdaje se Potvrda o obučenosti za službenika obezbeđenja, čime je završena obuka službenika fizičkog obezbeđenja.</p>
     <p>Pojedinačna cena obuke iznosi <b>18.000 dinara (bez PDV-a)</b>.</p>
 </div>

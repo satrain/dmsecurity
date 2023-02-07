@@ -12,7 +12,7 @@ get_header(); ?>
     <div class="konsalting-first-left-right">
         <div><img src="/wp-content/uploads/2023/01/konsalting-left-image-scaled.jpg"></div>
         <div>
-            <p>Kako bi se pristupilo adekvatnoj zaštiti i obezbeđenju određenog lica ili objekta, potrebno je prethodno napraviti bezbedonosnu procenu ugroženosti istog. Procena rizika obuhvata: snimanje lokacije; procena postojećeg stanja; izveštaj i procenu neophodne investicije. Naši stručnjaci sa ekspertizom u vašoj industriji će definisati rizike po vašu organizaciju i zatim analizirati ljudske, fizičke, tehničke, logičke i proceduralne faktore‚ koji čine kompletnu sliku vašeg bezbednosnog sistema kao i efikasnost sistema u sprečavanju, otkrivanju i oporavku od bezbednosnih rizika.</p>
+            <p>Kako bi se pristupilo adekvatnoj zaštiti i obezbeđenju određenog lica ili objekta, potrebno je prethodno napraviti bezbedonosnu procenu ugroženosti istog. Procena rizika obuhvata: snimanje lokacije; procena postojećeg stanja; izveštaj i procenu neophodne investicije. Naši stručnjaci sa ekspertizom u vašoj industriji će definisati rizike za vašu organizaciju i zatim analizirati ljudske, fizičke, tehničke, logičke i proceduralne faktore‚ koji čine kompletnu sliku vašeg bezbednosnog sistema kao i efikasnost sistema u sprečavanju, otkrivanju i oporavku od bezbednosnih rizika.</p>
         </div>
     </div>
     <div class="konsalting-second-left-right">

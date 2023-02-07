@@ -4,9 +4,9 @@ get_header(); ?>
 <?php get_template_part( 'template-parts/content', 'inner-hero' ); ?>
 
 <div class="about-first-section inner-page-container">
-    <p>Naša kompanija je jedna od pionira u digitalizaciji procesa u sektoru bezbednosti. Osnovna delatnost nam je implementacija naših digitalnih rešenja - softvera i aplikacija za jasno definisinje svih procesa u kompanijama koje se bave bezbednošću.</p>
+    <p>Naša kompanija je jedna od pionira u digitalizaciji procesa u sektoru bezbednosti. Osnovna delatnost nam je implementacija naših digitalnih rešenja - softvera i aplikacija za jasno definisanje svih procesa u kompanijama koje se bave bezbednošću.</p>
     <p>Pružamo i usluge konsaltinga u delu organizacije posla, izrade određenih rešenja, pravilnika i procedura za aktivnosti kompanija za obezbeđenje.</p>
-    <p>U okviru kompanije imamo i svoju Akademiju za edukacju službenika obezbeđenja, službenika tehničke zaštite, procene rizika i vatrogasaca.</p>
+    <p>U okviru kompanije imamo i svoju Akademiju za edukaciju službenika obezbeđenja, službenika tehničke zaštite, procene rizika i vatrogasaca.</p>
 </div>
 
 <div class="about-second-section">
