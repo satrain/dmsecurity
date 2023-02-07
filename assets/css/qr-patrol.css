@@ -263,6 +263,14 @@
     color: #FFFFFF;
 }
 
+.qr-patrol-subscription-header-pro h3 span {
+    color: #2196F3;
+}
+
+.qr-patrol-subscription-header-gold h3 span {
+    color: #f2950a;
+}
+
 .qr-patrol-subscription-body {
     padding-top: 20px;
     padding-bottom: 20px;

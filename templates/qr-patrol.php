@@ -121,7 +121,7 @@ get_header(); ?>
                 </div>
             </div>
             <div class="qr-patrol-subscription-wrapper">
-                <div class="qr-patrol-subscription-header">
+                <div class="qr-patrol-subscription-header qr-patrol-subscription-header-pro">
                     <h3>QR-patrol <span>pro</span></h3>
                 </div>
                 <div class="qr-patrol-subscription-body">
@@ -133,7 +133,7 @@ get_header(); ?>
                 </div>
             </div>
             <div class="qr-patrol-subscription-wrapper">
-                <div class="qr-patrol-subscription-header">
+                <div class="qr-patrol-subscription-header qr-patrol-subscription-header-gold">
                     <h3>QR-patrol <span>gold</span></h3>
                 </div>
                 <div class="qr-patrol-subscription-body">
