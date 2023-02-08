@@ -14,7 +14,7 @@ get_header(); ?>
 <div class="qr-patrol-inner-page-second-section">
     <div class="inner-page-container">
         <div class="qr-patrol-inner-page-left-right">
-            <div><img src="http://dmsecurity.local/wp-content/uploads/2023/02/qr-mars-second-section-image.png"></div>
+            <div><img src="/wp-content/uploads/2023/02/qr-mars-second-section-image.png"></div>
             <div class="qr-patrol-inner-page-left-right-text">
                 <h2>Dobijte izveštaje o incidentima</h2>
                 <p>Sada možete pratiti bilo kog čuvara vaše kompanije ili organizacije preko mobilnog uređaja!</p>

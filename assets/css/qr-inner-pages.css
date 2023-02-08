@@ -259,6 +259,7 @@
 
 .qr-patrol-web-app-sixth-section h2 {
     color: #FFF !important;
+    text-align: center;
 }
 
 .qr-patrol-mars-first-section img {
@@ -479,6 +480,10 @@
 }
 
 @media screen and (max-width: 525px) {
+    .qr-patrol-inner-page-button-wrapper {
+        width: 100%;
+    }
+
     .qr-patrol-inner-page-first-section {
         padding: 50px 30px;
     }
