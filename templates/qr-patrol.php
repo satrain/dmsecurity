@@ -71,7 +71,7 @@ get_header(); ?>
             <div class="qr-patrol-product">
                 <img src="/wp-content/uploads/2023/02/ptt-box-homepage-1.png">
                 <h4>QR-Patrol PTT</h4>
-                <a href="/qr-patrol/qr-patrol-ppt/" class="btn-primary">saznajte više</a>
+                <a href="/qr-patrol/qr-patrol-ptt/" class="btn-primary">saznajte više</a>
             </div>
         </div>
     </div>

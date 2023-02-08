@@ -114,7 +114,7 @@
               <a href="/akademija/" class="btn-primary">Saznaj više</a>
             </div>
           </div>
-          <img src="/wp-content/uploads/2023/01/akademija-pocetna-slika.png" alt="Akademija za edukaciju" class="academy-image">
+          <img src="/wp-content/uploads/2023/02/akademija.jpg" alt="Akademija za edukaciju" class="academy-image">
         </div>
       </div>
     </section>
@@ -126,9 +126,7 @@
       <div class="consulting-copy" data-aos="fade-right" data-aos-duration="1000">
         <span class="title_number">04</span>
         <h2>Konsalting</h2>
-        <p>Pružamo i usluge konsaltinga u delu organizacije posla, izrade određenih rešenja, pravilnika i procedura za aktivnosti kompanija za obezbeđenje.
-        <br><br>
-        Pružamo i usluge konsaltinga u delu organizacije.</p>
+        <p>Pružamo i usluge konsaltinga u delu organizacije posla, izrade određenih rešenja, pravilnika i procedura za aktivnosti kompanija za obezbeđenje.</p>
         <a href="/konsalting/" class="btn-primary">Saznaj više</a>
       </div>
       <div class="gradient-hero-background"></div>
