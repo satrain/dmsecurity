@@ -197,6 +197,10 @@ function dmsecurity_scripts() {
 		wp_enqueue_script('testimonials-script', get_template_directory_uri() .  '/assets/js/testimonials.js', array(), _S_VERSION, true);
 	}
 
+	if(is_page('QR-Patrol PTT')) {
+		wp_enqueue_script('testimonials-script', get_template_directory_uri() .  '/assets/js/testimonials.js', array(), _S_VERSION, true);
+	}
+
 	if(is_page('Akademija')) {
 		wp_enqueue_script('academy-script', get_template_directory_uri() .  '/assets/js/academy.js', array(), _S_VERSION, true);
 	}

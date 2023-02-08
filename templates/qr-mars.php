@@ -5,10 +5,9 @@ get_header(); ?>
 
 <div class="qr-patrol-inner-page-first-section">
     <div class="inner-page-container qr-patrol-mars-first-section">
-            <h2>Mobile guard tour management</h2>
-            <p>Monitor guards when being out of office</p>
+            <h2>Mobilno upravljanje stražarskim obilascima</h2>
+            <p>Nadgledajte čuvare van kancelarije</p>
             <img src="/wp-content/uploads/2023/02/qr-mars-first-section-image.jpg">
-            <p>QR-Patrol M.A.R.S. is a useful tool for any guard tour monitoring process, allowing the remote management of guard tours and patrols via a simple mobile application (available for iPhone/iPad and Android devices). You can now manage guard tours and receive real-time incident reports, keeping an eye on guards' activities and schedules and getting immediate reports about guard tours on your mobile device.</p>
     </div>
 </div>
 
@@ -17,9 +16,9 @@ get_header(); ?>
         <div class="qr-patrol-inner-page-left-right">
             <div><img src="http://dmsecurity.local/wp-content/uploads/2023/02/qr-mars-second-section-image.png"></div>
             <div class="qr-patrol-inner-page-left-right-text">
-                <h2>Get Incidents Reports</h2>
-                <p>You can now monitor any guard of your company or organization via a mobile device! QR-Patrol M.A.R.S. incorporates all the features of the advanced QR-Patrol web application into a mobile application, being a handy tool for any security account manager so as to monitor guards activities and for any client to ensure assets protection and promised security services.</p>
-                <p>Get instant information about any guard tour and generate reports for each guard, including time of checkpoint scan, attached images, messages, etc.</p>
+                <h2>Dobijte izveštaje o incidentima</h2>
+                <p>Sada možete pratiti bilo kog čuvara vaše kompanije ili organizacije preko mobilnog uređaja!</p>
+                <p>Dobijte trenutne informacije o obilasku stražara i generišite izveštaje za svakog čuvara, uključujući vreme skeniranja kontrolne tačke, priložene slike, poruke, itd.</p>
             </div>
         </div>
     </div>
@@ -29,13 +28,13 @@ get_header(); ?>
     <div class="inner-page-container">
         <div class="qr-patrol-inner-page-left-right">
             <div class="qr-patrol-inner-page-left-right-text">
-                <h2>Check client's sites and view checkpoints</h2>
-                <p>You have now a ton of information, just like in the web application of QR-Patrol!</p>
+                <h2>Proverite klijentova stajališta i pogledajte kontrolne tačke</h2>
+                <p>Sada imate gomilu informacija, baš kao u web aplikaciji QR-Patrola!</p>
                 <ul>
-                    <li>Full patrol details</li>
-                    <li>Incident Reports for each guard</li>
-                    <li>Full Client Sites Information</li>
-                    <li>Details about checkpoints and ability to send messages to guards</li>
+                    <li>Kompletni detalji patrole</li>
+                    <li>Izveštaj incidenata svakog čuvara</li>
+                    <li>Kompletna informacija klijentovih stajališta</li>
+                    <li>Detalji kontrolnih tačaka i mogućnost slanja poruke čuvarima</li>
                 </ul>
             </div>
             <div><img src="/wp-content/uploads/2023/02/qr-mars-third-section-image.png"></div>
@@ -48,33 +47,33 @@ get_header(); ?>
         <div class="qr-patrol-inner-page-left-right">
             <div><img src="/wp-content/uploads/2023/02/qr-mars-fourth-section-image.png"></div>
             <div class="qr-patrol-inner-page-left-right-text">
-                <h2>Guard tour reports on mobile</h2>
-                <p>All events are now seperated into categories (Scan, Test, Panic, NFCScan, Start, Finish, etc), allowing a simple and massive check of any different event. You can simply press on "Scan" to see all Scans and the accurate time of each scan as well as tap on a scan to get more specific details.</p>
+                <h2>Izveštaj stražarskih obilaska na telefonu</h2>
+                <p>Svi događaji su sada podeljeni po kategorijama (Sken, Test, Panika, NFC Sken, Početak, Kraj, itd.), omogućava jednostavnu i masovnu proveru bilo kog događaja. Možete jednostavno da pritisnete "Scan" da biste videli sva skeniranja i tačno vreme svakog skeniranja, kao i da pritisnete skenirano da biste dobili konkretnije detalje.</p>
             </div>
         </div>
     </div>
 </div>
 
-<div class="qr-patrol-mars-fifth-section">
+<!-- <div class="qr-patrol-mars-fifth-section">
     <div class="inner-page-container">
         <h2>Manage mobile patrols online</h2>
         <p>Ideal for both security administrators and clients, QR-Patrol M.A.R.S. offers the unique advantage of real-time alerts from any guard tour.</p>
         <img src="/wp-content/uploads/2023/02/qr-mars-fifth-section-image.png">
     </div>
-</div>
+</div> -->
 
 <div class="qr-patrol-inner-page-sixth-section">
     <div class="inner-page-container">
-        <h2>Download QR-Patrol M.A.R.S.</h2>
-        <p>Monitor guard tours from your mobile device!</p>
+        <h2>Preuzmite QR-Patrol M.A.R.S.</h2>
+        <p>Pratite stražarske obilaske sa vašeg mobilnog telefona!</p>
         <div class="qr-patrol-inner-page-button-wrapper">
-            <a href="https://play.google.com/store/apps/details?id=com.terracom.qrpatrolmars" class="btn-primary" target="_blank">QR-Patrol M.A.R.S. for Android</a>
-            <a href="https://apps.apple.com/us/app/qr-patrol-m-a-r-s/id1066209068" class="btn-primary" target="_blank">QR-Patrol M.A.R.S. for iOs</a>
+            <a href="https://play.google.com/store/apps/details?id=com.terracom.qrpatrolmars" class="btn-primary" target="_blank">QR-Patrol M.A.R.S. za Android</a>
+            <a href="https://apps.apple.com/us/app/qr-patrol-m-a-r-s/id1066209068" class="btn-primary" target="_blank">QR-Patrol M.A.R.S. za iOs</a>
         </div>
     </div>
 </div>
 
-<div class="qr-patrol-inner-page-seventh-section">
+<!-- <div class="qr-patrol-inner-page-seventh-section">
     <div class="inner-page-container">
         <div class="qr-patrol-inner-page-left-right">
             <div class="qr-patrol-inner-page-left-right-text">
@@ -102,6 +101,6 @@ get_header(); ?>
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <?php get_footer(); ?>

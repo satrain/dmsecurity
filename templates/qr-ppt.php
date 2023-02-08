@@ -5,29 +5,29 @@ get_header(); ?>
 
 <div class="qr-patrol-inner-page-first-section">
     <div class="inner-page-container">
-        <h2>Amazing features</h2>
-        <p>An easy way to communicate by touching a simple button.</p>
+        <h2>Neverovatne karakteristike</h2>
+        <p>Lak način za komunikaciju jednostavnim pritiskom dugmeta.</p>
         <div class="qr-patrol-ppt-first-section-wrapper">
             <div class="qr-patrol-ppt-first-section-upper-lower">
                 <div class="qr-patrol-ppt-first-section-icon-text-wrapper">
                     <img src="">
                     <div class="qr-patrol-ppt-first-section-text-wrapper">
-                        <h3>EASY<br> TO USE</h3>
-                        <p>User friendly interface with channel tree view and simple settings management.</p>
+                        <h3>JEDNOSTAVNO <br> ZA KORIŠĆENJE</h3>
+                        <p>Interfejs prilagođen korisniku sa prikazom svih kanala i jednostavnim upravljanjem podešavanja.</p>
                     </div>
                 </div>
                 <div class="qr-patrol-ppt-first-section-icon-wrapper">
                     <img src="">
                     <div class="qr-patrol-ppt-first-section-text-wrapper">
-                        <h3>SSL<br> SECURE</h3>
-                        <p>Data is sent through encrypted SSL connection via a secure cloud server in reliable data storages</p>
+                        <h3>SSL<br> OSIGURANO</h3>
+                        <p>Podaci se šalju putem šifrovane SSL konekcije do sigurnih cloud servera u pouzdanim skladištima podataka.</p>
                     </div>
                 </div>
                 <div class="qr-patrol-ppt-first-section-icon-wrapper">
                     <img src="">
                     <div class="qr-patrol-ppt-first-section-text-wrapper">
-                        <h3>INTERNET COMMUNICATION</h3>
-                        <p>Working through 2G, 3G, 4G or WiFi networks and talk across different countries.</p>
+                        <h3>INTERNET KOMUNIKACIJA</h3>
+                        <p>Razgovarajte u različitim zemljama putem 2G, 3G, 4G ili WiFi mreže.</p>
                     </div>
                 </div>
             </div>
@@ -35,22 +35,22 @@ get_header(); ?>
                 <div class="qr-patrol-ppt-first-section-icon-wrapper">
                     <img src="">
                     <div class="qr-patrol-ppt-first-section-text-wrapper">
-                        <h3>IMPROVED TEAM EFFICIENCY</h3>
-                        <p>Group chat ability and auto-reconnect feature when Internet connection is lost.</p>
+                        <h3>POBOLJŠANA<br>EFIKASNOST TIMA</h3>
+                        <p>Mogućnost grupnog razgovora i funkcija automatskog ponovnog povezivanja kada se internet veza izgubi.</p>
                     </div>
                 </div>
                 <div class="qr-patrol-ppt-first-section-icon-wrapper">
                     <img src="">
                     <div class="qr-patrol-ppt-first-section-text-wrapper">
-                        <h3>WALKIE-TALKIE FUNCTIONALITY</h3>
-                        <p>Use an Android smartphone to simulate Walkie-Talkie functionality.</p>
+                        <h3>VOKI-TOKI FUNKCIONALNOST</h3>
+                        <p>Koristite pametan telefon da simulirate voki-toki funkcionalnost.</p>
                     </div>
                 </div>
                 <div class="qr-patrol-ppt-first-section-icon-wrapper">
                     <img src="">
                     <div class="qr-patrol-ppt-first-section-text-wrapper">
-                        <h3>TWO-WAY COMMUNICATION</h3>
-                        <p>Listen to messages and talk to the group or privately in a simultaneous way.</p>
+                        <h3>DVOSMERNA KOMUNIKACIJA</h3>
+                        <p>Slušajte istovremeno poruke i razgovarajte sa grupom ili privatno.</p>
                     </div>
                 </div>
             </div>
@@ -62,16 +62,16 @@ get_header(); ?>
     <div class="inner-page-container">
         <div class="qr-patrol-inner-page-left-right">
             <div class="qr-patrol-inner-page-left-right-text">
-                <h2>WHY QR-PTT?</h2>
-                <p>QR-PTT Push To Talk is an easy to use PTT over IP client, developed for lone workers communication or other colleagues and co-workers interaction. It can be used by companies that need to be in constant communication with their employees, to give instructions, make comments, report incidents in real time by voice communication or by sending a text message within the application.</p>
-                <p>QR Push to Talk improves work communication and efficiency, reducing communication costs and minimizing communication deteriorations. The workers can carry only one device and thus save the cost of purchasing traditional Walkie-Talkie devices and use only their smartphone for all of their working tasks.</p>
+                <h2>ZAŠTO QR-PTT?</h2>
+                <p>QR-PTT (Push To Talk) je aplikacija razvijena za komunikaciju radnika sa drugim kolegama i saradnicima. Mogu je koristiti kompanije koje treba da budu u stalnoj komunikaciji sa svojim zaposlenima, da daju uputstva, komentare, prijave incident glasovnom komunikacijom u realnom vremenu ili slanjem poruke unutar aplikacije.</p>
+                <p>QR-PTT poboljšava radnu komunikaciju i efikasnost, smanjuje troškove komunikacije i svodi pogoršanje komunikacije na minimum. Radnici mogu da nose samo jedan uređaj (pametan telefon) i tako uštede troškove kupovine tradicionalnih voki-toki uređaja.</p>
             </div>
             <div><img src="/wp-content/uploads/2023/02/qr-ppt-second-section-image.png"></div>
         </div>
     </div>
 </div>
 
-<div class="qr-patrol-inner-page-third-section qr-patrol-ppt-third-section">
+<!-- <div class="qr-patrol-inner-page-third-section qr-patrol-ppt-third-section">
     <div class="inner-page-container">
         <h2>It's Awesome</h2>
         <p>Instant communication with QR-PPT application!</p>
@@ -93,27 +93,79 @@ get_header(); ?>
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
-<div class="qr-patrol-inner-page-fourth-section">
-    <div class="inner-page-container">
-        <!-- Testimonials section -->
+<div id="testimonials">
+      <h2 data-aos="fade-down" data-aos-duration="1000">Zadovoljni Klijenti</h2>
+
+      <div class="scroll-area">
+        <div class="wrapper">
+          <div class="testimonial">
+            <div class="quote">
+              <p>" The QR Patrol app is a fantastic app to monitor your guarding staff and all reports are available online. The mobile app and the web app work flawlessly. The set up is very easy and Sofia and James were very helpful to answer any pre-sale questions."</p>
+            </div>
+            <div class="person">
+              <div class="details">
+                <strong>Talal Sadiq</strong>
+                <span>Director at Prolink Security</span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial">
+            <div class="quote">
+              <p>Benefits to the Jamaican Police Force: Increased efficiency in operational analysis with the utilization of verified data (Geo Referenced) and Centralized planning and coordination of Patrol teams and sending the patrol routs through the application </p>
+            </div>
+            <div class="person person-petars">
+              <div class="details">
+                <strong>Donovan Henderson</strong>
+                <span>Case Management Unit (CMU) - Jamaican Police Force</span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial current">
+            <div class="quote">
+              <p>We are excited about using your product, we believe it will help us be more productive in our security area.</p>
+            </div>
+            <div class="person">
+              <div class="details">
+                <strong>Terrance Washington</strong>
+                <span>IT Manager The Westin Houston Memorial City</span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial">
+            <div class="quote">
+              <p>Working from home is a joy with the system… thank goodness for the little things.</p>
+            </div>
+            <div class="person">
+              <div class="details">
+                <strong>Sarah Grayburn</strong>
+                <span>Security Patrol Co Ordinator at Heathrow</span>
+              </div>
+            </div>
+          </div>
+          <div class="testimonial">
+            <div class="quote">
+              <p>Thank you! We recently won a new contract based on our use of technology and QR-Patrol system! </p>
+            </div>
+            <div class="person">
+              <div class="details">
+                <strong>Exclusec UK</strong>
+                <span>Security Services company</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-</div>
 
 <div class="qr-patrol-inner-page-fifth-section qr-patrol-ppt-fifth-section">
     <div class="inner-page-container">
         <div class="qr-patrol-inner-page-user-guide-wrapper">
-            <h2>DOWNLOAD THE APP</h2>
-            <p>Available on Google Play and App Store</p>
+            <h2>PREUZMITE APLIKACIJU</h2>
             <div class="qr-patrol-inner-page-button-wrapper">
-                <a href="https://play.google.com/store/apps/details?id=com.terracom.qrpttbeta.free" class="btn-primary" target="_blank">QR-PPT FOR ANDROID</a>
-                <a href="https://apps.apple.com/gr/app/qr-ptt-pushtotalk/id1173819123" class="btn-primary" target="_blank">QR-PPT FOR IOS</a>
-            </div>
-            <h2>Get now the full User Guide of QR-Patrol PPT</h2>
-            <div class="qr-patrol-inner-page-button-wrapper">
-                <a href="http://dmsecurity.local/wp-content/uploads/2023/02/qr-patrol-ptt-guide.pdf" class="btn-primary" target="_blank">DOWNLOAD USER'S GUIDE</a>
-                <a href="https://apps.apple.com/us/app/qr-patrol-m-a-r-s/id1066209068" class="btn-primary" target="_blank">COMPATIBLE HEADSET DEVICES</a>
+                <a href="https://play.google.com/store/apps/details?id=com.terracom.qrpttbeta.free" class="btn-primary" target="_blank">QR-PPT ZA ANDROID</a>
+                <a href="https://apps.apple.com/gr/app/qr-ptt-pushtotalk/id1173819123" class="btn-primary" target="_blank">QR-PPT ZA IOS</a>
             </div>
         </div>
     </div>
