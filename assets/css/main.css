@@ -222,6 +222,52 @@ header {
   display: none;
 }
 
+@media (min-width: 1300px) and (max-width: 1430px) {
+  .header-con ul li {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .header-con ul li a,
+  .header-button {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 1084px) and (max-width: 1299px) {
+  header {
+    padding-left: 70px;
+    padding-right: 70px;
+  }
+
+  .header-con ul li {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .header-con ul li a,
+  .header-button {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 1025px) and (max-width: 1083px) {
+  header {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .header-con ul li {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .header-con ul li a,
+  .header-button {
+    font-size: 16px;
+  }
+}
+
 @media screen and (max-width: 425px) {
   header {
       padding-left: 30px;
@@ -819,7 +865,7 @@ header {
   #testimonials .wrapper{
     --n: 5;
     width: calc(460vw - 200px);
-    height: 580px;
+    height: 390px;
 
     transform: translate(calc(var(--tx, 0px) + var(--i, 0)/var(--n)*(-100% + 60px)));
   }
@@ -934,7 +980,7 @@ background-repeat: no-repeat;
 background-position: top 0 right 0;
 background-size: 100% 100%;
       padding: 92px 0 50px 0;
-      height: 930px;
+      height: 770px;
     }
     #testimonials > h2{
       margin-bottom: 80px !important;
@@ -971,10 +1017,6 @@ background-size: 100% 100%;
     }
     #testimonials .quote {
       padding: 5% 4% 5% 4%;
-    }
-
-    #testimonials .testimonial.current{
-      /*margin-left: 0;*/
     }
 
     #testimonials .person{

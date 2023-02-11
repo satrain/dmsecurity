@@ -33,10 +33,10 @@ get_header(); ?>
         <img src="/wp-content/uploads/2023/02/g4s-logo_0.png">
         <img src="/wp-content/uploads/2023/02/GuardForce-logo.png">
         <img src="/wp-content/uploads/2023/02/ikea-logo_0.png">
-        <img src="/wp-content/uploads/2023/02/securitas-logo.png">
-        <img src="/wp-content/uploads/2023/02/g4s-logo_0.png">
-        <img src="/wp-content/uploads/2023/02/GuardForce-logo.png">
-        <img src="/wp-content/uploads/2023/02/ikea-logo_0.png">
+        <img src="/wp-content/uploads/2023/02/Pfizer-logo.png">
+        <img src="/wp-content/uploads/2023/02/marriott-logo_0.png">
+        <img src="/wp-content/uploads/2023/02/Egroup-logo.png">
+        <img src="/wp-content/uploads/2023/02/honda-logo.png">
     </div>
       <!-- QR-Patrol video -->
     <div id="qr-patrol-video">
@@ -71,7 +71,7 @@ get_header(); ?>
             <div class="qr-patrol-product">
                 <img src="/wp-content/uploads/2023/02/ptt-box-homepage-1.png">
                 <h4>QR-Patrol PTT</h4>
-                <a href="/qr-patrol/qr-patrol-ppt/" class="btn-primary">saznajte više</a>
+                <a href="/qr-patrol/qr-patrol-ptt/" class="btn-primary">saznajte više</a>
             </div>
         </div>
     </div>
@@ -121,7 +121,7 @@ get_header(); ?>
                 </div>
             </div>
             <div class="qr-patrol-subscription-wrapper">
-                <div class="qr-patrol-subscription-header">
+                <div class="qr-patrol-subscription-header qr-patrol-subscription-header-pro">
                     <h3>QR-patrol <span>pro</span></h3>
                 </div>
                 <div class="qr-patrol-subscription-body">
@@ -133,7 +133,7 @@ get_header(); ?>
                 </div>
             </div>
             <div class="qr-patrol-subscription-wrapper">
-                <div class="qr-patrol-subscription-header">
+                <div class="qr-patrol-subscription-header qr-patrol-subscription-header-gold">
                     <h3>QR-patrol <span>gold</span></h3>
                 </div>
                 <div class="qr-patrol-subscription-body">

@@ -6,10 +6,10 @@ get_header(); ?>
 <div class="qr-patrol-inner-page-first-section">
     <div class="inner-page-container">
         <div class="qr-patrol-web-app-first-section qr-patrol-inner-page-user-guide-wrapper">
-            <h2>The evolution of guard systems</h2>
-            <p>Monitor guards, manage patrols, organize schedules</p>
+            <h2>Evolucija sistema za zaštitu</h2>
+            <p>Nadgledajte straže, upravljajte patrolama, organizujte rasporede</p>
             <img src="/wp-content/uploads/2023/02/web-app-first-section-image.png">
-            <a href="https://followmystaff.com/" class="btn-primary" target="_blank">Povežite se sa QR-Patrol web aplikacijom</a>
+            <!-- <a href="https://followmystaff.com/" class="btn-primary" target="_blank">Povežite se sa QR-Patrol web aplikacijom</a> -->
         </div>
     </div>
 </div>
@@ -19,9 +19,9 @@ get_header(); ?>
         <div class="qr-patrol-inner-page-left-right">
             <div><img src="/wp-content/uploads/2023/02/web-app-second-section-image.png"></div>
             <div class="qr-patrol-inner-page-left-right-text">
-                <h2>User Management</h2>
-                <p>QR-Patrol web application allows total control on different security entries' levels: administrators, managers, security companies, security guards and clients. A QR-Patrol manager can control all the parameters regarding the levels down in the hierarchy.</p>
-                <p>QR-Patrol web application lets you add and edit all relevant information regarding the various users roles and allows the total remote management of any incident, guard, shcedule, client related to the security guard company or organization.</p>
+                <h2>Upravljanje korisnicima</h2>
+                <p>QR-Patrol web aplikacija omogućava potpunu kontrolu na različitim nivoima bezbednosti: administratori, menadžeri, bezbedonosne kompanije, radnici obezbeđenja i klijenti. QR-Patrol menadžer može da kontroliše sve parametre koji se tiču nižih nivoa u hijerarhiji.</p>
+                <p>QR-Patrol web aplikacija vam omogućava da dodate i uredite sve relevantne informacije u vezi sa različitim ulogama korisnika i omogućavaju potpuno daljinsko upravljanje bilo kojim incidentom, čuvarom, rasporedom, klijentom koji se odnosu na kompaniju ili organizaciju obezbeđenja.</p>
             </div>
         </div>
     </div>
@@ -31,13 +31,13 @@ get_header(); ?>
     <div class="inner-page-container">
         <div class="qr-patrol-inner-page-left-right">
             <div class="qr-patrol-inner-page-left-right-text">
-                <h2>Advanced Reporting</h2>
-                <p>There are four basic reporting options, enabling export to PDF or excel format for further processing:</p>
+                <h2>Napredno izveštavanje</h2>
+                <p>Postoje četiri osnovne opcije izveštavanja koje omogućavaju izvoz u PDF ili Excel format za dalju obradu:</p>
                 <ul>
-                    <li>Finished Scheduled Route Report, which informs about all accomplished or missed patrols within a specific time interval.</li>
-                    <li>Clients Events Report, including all events for a specific client with full details.</li>
-                    <li>Incidents Report, including all events filtered by clients' sites or guards.</li>
-                    <li>Guard Daily Tour Duration Report, informing about exact time and duration of accomplished guard tours.</li>
+                    <li>Izveštaj o završenoj planiranoj ruti, koji obaveštava o svim obavljenim ili propuštenim patrolama u određenom vremenskom intervalu</li>
+                    <li>Izveštaj o događajima klijenata, uključujući sve događaje za određenog klijenta sa svim detaljima</li>
+                    <li>Izveštaj o incidentima, uključujući sve događaje filtrirane od strane klijenata ili čuvara</li>
+                    <li>Izveštaj o trajanju dnevnog obilaska stražara, sa informacijama o tačnom vremenu i trajanju obavljenih obilazaka straže</li>
                 </ul>
             </div>
             <div><img src="/wp-content/uploads/2023/02/web-app-third-section-image.png"></div>
@@ -50,8 +50,8 @@ get_header(); ?>
         <div class="qr-patrol-inner-page-left-right">
             <div><img src="/wp-content/uploads/2023/02/web-app-fourth-section-image.png"></div>
             <div class="qr-patrol-inner-page-left-right-text">
-                <h2>Manage and assign checkpoints</h2>
-                <p>The security account manager using QR-Patrol can easily assign checkpoints (QR-codes, NFC tags, Beacons) via the web interface of QR-Patrol. Each chekcpoint is assigned to a specific client site and location and so predefined tours can be scheduled for each security guard. Checkpoints assignment is the core of QR-Patrol guard tour monitoring software as it interconnects mobile and web application via checkpoints scan accomplished by the security guards.</p>
+                <h2>Upravljajte i dodelite kontrolne tačke</h2>
+                <p>Menadžer naloga obezbeđenja koji koristi QR-Patrol može lako da dodeli kontrolne tačke (QR-kodovi, NFC tagovi, Beacons) preko web interfejsa. Svaka kontrolna tačka je dodeljena određenoj lokaciji klijenta i tako se unapred definisani obilasci mogu zakazati za svakog čuvara. Dodeljivanje kontrolnih tačaka je osnova QR-Patrol softvera za praćenje obilaska stražara jer povezuje mobilnu i veb aplikaciju preko skeniranja kontrolnih tačaka koje objavljuju čuvari.</p>
             </div>
         </div>
     </div>
@@ -61,17 +61,17 @@ get_header(); ?>
     <div class="inner-page-container">
         <div class="qr-patrol-inner-page-left-right">
             <div class="qr-patrol-inner-page-left-right-text">
-                <h2>Security guard tour management in real-time</h2>
-                <p>A must have tool for guard tour administrators</p>
+                <h2>Upravljanje stražarskih obilaska u realnom vremenu</h2>
+                <p>Neophodan alat za administratore stražarskih obilaska</p>
                 <ul>
-                    <li>Secure premises</li>
-                    <li>Monitor guards remotely</li>
-                    <li>Prevent damange and loss</li>
-                    <li>Track hours and control budget</li>
-                    <li>Organize guard tour schedule</li>
-                    <li>Conduct paperless reports</li>
-                    <li>Eliminate time loss</li>
-                    <li>Real-time management</li>
+                    <li>Sigurne prostorije</li>
+                    <li>Daljinski nadgledajte stražare</li>
+                    <li>Sprečite štetu i gubitak</li>
+                    <li>Merite sate i kontrolišite budžet</li>
+                    <li>Organizujte raspored obilaska straže</li>
+                    <li>Vodite izveštaje bez papira</li>
+                    <li>Eliminišite gubitak vremena</li>
+                    <li>Upravljanje u realnom vremenu</li>
                 </ul>
             </div>
             <div><img src="/wp-content/uploads/2023/02/web-app-fifth-section-scaled.jpg"></div>
@@ -81,12 +81,12 @@ get_header(); ?>
 
 <div class="qr-patrol-web-app-sixth-section">
     <div class="inner-page-container">
-        <div><h2>Manage schedules and routes</h2></div>
+        <div><h2>Upravljajte rasporedima i rutama</h2></div>
         <div><img src="/wp-content/uploads/2023/02/web-app-sixth-section-image.png"></div>
     </div>
 </div>
 
-<div class="qr-patrol-inner-page-sixth-section">
+<!-- <div class="qr-patrol-inner-page-sixth-section">
     <div class="inner-page-container">
         <h2>Test for free QR-Patrol web application</h2>
         <p>Grab the chance to be a master in patrolling management!</p>
@@ -94,33 +94,23 @@ get_header(); ?>
             <a href="https://followmystaff.com/" class="btn-primary" target="_blank">QR-Patrol web aplikacija</a>
         </div>
     </div>
-</div>
+</div> -->
 
 <div class="qr-patrol-inner-page-seventh-section">
     <div class="inner-page-container">
         <div class="qr-patrol-inner-page-left-right">
             <div class="qr-patrol-inner-page-left-right-text">
-                <h2>Increase your security guard company's efficiency</h2>
-                <p>QR-Patrol guard system incorporates several features that will help you maximize your productivity and gain customers'confidence.</p>
+                <h2>Povećajte efikasnost vaše kompanije za obezbeđenje</h2>
+                <p>QR-Patrol sistem uključuje nekoliko funkcija koje će vam pomoći da povećate svoju produktivnost i steknete poverenje kupaca.</p>
                 <ul>
-                    <li>Remote managemet via cloud server infrastracture</li>
-                    <li>Real-time guard tracking and GPS positioning</li>
-                    <li>Comprehensive data analysis of any guard tour</li>
-                    <li>Accurate history log</li>
-                    <li>Automation and accountability</li>
+                    <li>Daljinsko upravljanje putem infrastrukture servera u oblaku</li>
+                    <li>GPS pozicioniranje i praćenje straže u realnom vremenu</li>
+                    <li>Sveobuhvatna analiza podataka svakog obilaska straže</li>
+                    <li>Precizan dnevnik istorije</li>
+                    <li>Automatizacija i pouzdanost</li>
                 </ul>
             </div>
             <div><img src="/wp-content/uploads/2023/02/web-app-seventh-section-image.png"></div>
-        </div>
-    </div>
-</div>
-
-<div class="qr-patrol-inner-page-eighth-section">
-    <div class="inner-page-container">
-        <div class="qr-patrol-inner-page-user-guide-wrapper">
-            <h2>A unique guard tour management solution</h2>
-            <p>Get now the full User Guide of QR-Patrol web application and start patrolling in a much easier way!</p>
-            <a href="/wp-content/uploads/2023/02/qr-patrol-mobile-app-user-guide.pdf" class="btn-primary" target="_blank">Download Mobile Application User Guide</a>
         </div>
     </div>
 </div>
