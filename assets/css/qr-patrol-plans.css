@@ -1,0 +1,172 @@
+@media screen and (min-width: 1024px) {
+    .header-con ul li a {
+        color: #011627;
+    }
+}
+@media screen and (min-width: 1200px) {
+    .qr-patrol-plans-page .mobile-price-table {
+        display: none!important;
+    }
+}
+.qr-patrol-plans-page {
+    background: #fff;
+    padding-top: 200px;
+    padding-bottom: 145px;
+}
+.main {
+    box-shadow: 0 0 24px rgba(0, 0, 0, 0.15);
+    font-family: "Open Sans";
+    width: 1170px;
+    margin: 0 auto;
+}
+.price-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 0 none;
+}
+.price-table tr:not(:last-child) {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.03);
+}
+.price-table tr td {
+    border-left: 1px solid rgba(0, 0, 0, 0.05);
+    padding: 8px 24px;
+    font-size: 14px;
+}
+.price-table tr td:first-child {
+    border-left: 0 none;
+}
+.price-table tr td:not(:first-child) {
+    text-align: center;
+}
+.price-table tr:nth-child(even) {
+    background-color: #FFFFFF;
+}
+.price-table tr:hover {
+    background-color: #EEEEEE;
+}
+.price-table .fa-check {
+    color: #011627;
+}
+.price-table .fa-times {
+    color: #D8D6E3;
+}
+
+/* Highlighted column */
+.price-table tr:nth-child(2n) td:nth-child(3) {
+    background-color: rgba(216, 214, 227, 0.25);
+}
+.price-table tr td:nth-child(3) {
+    background-color: rgba(216, 214, 227, 0.15);
+    padding: 8px 48px;
+}
+.price-table tr td:nth-child(3) .fa-check,
+.price-table tr:nth-child(2n) td:nth-child(3) .fa-check {
+    /* color: #ffffff; */
+}
+/**/
+
+.price-table tr.price-table-head td {
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Montserrat";
+    text-transform: uppercase;
+}
+.price-table tr.price-table-head {
+    background-color: #011627;
+    color: #FFFFFF;
+}
+.price-table td.price a {
+    background-color: #2196f3;
+    color: #FFFFFF;
+    padding: 12px 32px;
+    margin-top: 16px;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: "Montserrat";
+    text-transform: uppercase;
+    display: inline-block;
+    border-radius: 64px;
+}
+.price-table td.price-table-popular {
+    font-family: "Montserrat";
+    border-top: 3px solid #011627;
+    color: #011627;
+    text-transform: uppercase;
+    font-size: 12px;
+    padding: 12px 48px;
+    font-weight: 700;
+}
+.price-table .price-blank {
+    background-color: #fafafa;
+    border: 0 none;
+}
+
+@media screen and (max-width: 1200px) {
+    .qr-patrol-plans-page {
+        padding-top: 170px;
+        padding-bottom: 110px;
+    }
+
+    .qr-patrol-plans-page .desktop-price-table {
+        display: none!important;
+    }
+
+    .qr-patrol-plans-page .mobile-price-table {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 45px;
+        padding: 0 30px;
+    }
+
+    .plan-card {
+        box-shadow: 0 0 35px rgba(0, 0, 0, 0.1);
+        width: 100%;
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 30px 10px;
+
+        background: url(.png), radial-gradient(90.16% 143.01% at 15.32% 21.04%, rgba(165, 239, 255, 0.2) 0%, rgba(110, 191, 244, 0.0447917) 77.08%, rgba(70, 144, 213, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+        background-blend-mode: overlay, normal;
+        backdrop-filter: blur(40px);
+    }
+
+    .plan-card h3 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 26px!important;
+        line-height: 32px!important;
+        text-transform: uppercase;
+        font-weight: 700;
+        color: #011627;
+        margin-bottom: 15px;
+    }
+
+    .plan-card ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    .order-plan-btn {
+        width: 250px;
+        background-color: #2196f3;
+        color: #FFFFFF;
+        padding: 12px 32px;
+        margin-top: 30px;
+        font-size: 12px;
+        font-weight: 600;
+        font-family: "Montserrat", sans-serif;
+        text-transform: uppercase;
+        display: inline-block;
+        border-radius: 64px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .order-plan-btn {
+        width: 100%;
+    }
+}

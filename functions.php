@@ -175,6 +175,8 @@ function dmsecurity_scripts() {
 	wp_register_style('qr-inner-pages_style', get_template_directory_uri() . '/assets/css/qr-inner-pages.css', array(), _S_VERSION, 'all');
     wp_enqueue_style('qr-inner-pages_style');
 
+	wp_enqueue_style('dmsecurity-fa', 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css');
+
 
 	wp_enqueue_style( 'dmsecurity-style', get_stylesheet_uri(), array(), _S_VERSION );
 	wp_style_add_data( 'dmsecurity-style', 'rtl', 'replace' );
@@ -199,6 +201,10 @@ function dmsecurity_scripts() {
 
 	if(is_page('QR-Patrol PTT')) {
 		wp_enqueue_script('testimonials-script', get_template_directory_uri() .  '/assets/js/testimonials.js', array(), _S_VERSION, true);
+	}
+
+	if(is_page('QR-Patrol Planovi')) {
+		wp_enqueue_style('qr-patrol-plan-style', get_template_directory_uri() .  '/assets/css/qr-patrol-plans.css', array(), _S_VERSION, 'all');
 	}
 
 	if(is_page('Akademija')) {
