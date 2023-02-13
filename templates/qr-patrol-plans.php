@@ -181,13 +181,13 @@
                 <tr>
                     <td></td>
                     <td class="price">
-                        <a href="#">Naruči plan</a>
+                        <a href="/kontakt/">Naruči plan</a>
                     </td>
                     <td class="price">
-                        <a href="#">Naruči plan</a>
+                        <a href="/kontakt/">Naruči plan</a>
                     </td>
                     <td class="price">
-                        <a href="#">Naruči plan</a>
+                        <a href="/kontakt/">Naruči plan</a>
                     </td>
                 </tr>
             </tbody>
@@ -209,7 +209,7 @@
                 <li><i class="fas fa-check"></i> Pristup na više nivoa</li>
                 <li><i class="fas fa-check"></i> Email obaveštenja</li>
             </ul>
-            <a href="#" class="order-plan-btn">Naruči paket</a>
+            <a href="/kontakt/" class="order-plan-btn">Naruči paket</a>
         </div>
         <div class="mobile-pro-plan-card plan-card">
         <h3>Pro Plan</h3>
@@ -233,7 +233,7 @@
                 <li><i class="fas fa-check"></i> Mobilne forme</li>
                 <li><i class="fas fa-check"></i> Verifikacija licem</li>
             </ul>
-            <a href="#" class="order-plan-btn">Naruči paket</a>
+            <a href="/kontakt/" class="order-plan-btn">Naruči paket</a>
         </div>
         <div class="mobile-gold-plan-card plan-card">
         <h3>Gold Plan</h3>
@@ -264,7 +264,7 @@
                 <li><i class="fas fa-check"></i> Napredno prilagođavanje izveštaja</li>
                 <li><i class="fas fa-check"></i> Istorija aktivnosti</li>
             </ul>
-            <a href="#" class="order-plan-btn">Naruči paket</a>
+            <a href="/kontakt/" class="order-plan-btn">Naruči paket</a>
         </div>
     </div>
 </div>
