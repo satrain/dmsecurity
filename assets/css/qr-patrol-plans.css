@@ -13,6 +13,13 @@
     padding-top: 200px;
     padding-bottom: 145px;
 }
+.qr-patrol-plans-page > h2 {
+    color: #011627;
+    text-align: center;
+    font-size: 56px;
+    line-height: 68px;
+    margin-bottom: 50px;
+}
 .main {
     box-shadow: 0 0 24px rgba(0, 0, 0, 0.15);
     font-family: "Open Sans";
@@ -102,9 +109,18 @@
 }
 
 @media screen and (max-width: 1200px) {
+    .burger .burger-lines, .burger .burger-lines:after, .burger .burger-lines:before {
+        background-color: #011627;
+    }
+
     .qr-patrol-plans-page {
-        padding-top: 170px;
-        padding-bottom: 110px;
+        padding: 170px 30px 110px;
+    }
+
+    .qr-patrol-plans-page > h2 {
+        font-size: 36px;
+        line-height: 48px;
+        margin-bottom: 35px;
     }
 
     .qr-patrol-plans-page .desktop-price-table {
@@ -116,7 +132,6 @@
         flex-direction: column;
         align-items: center;
         gap: 45px;
-        padding: 0 30px;
     }
 
     .plan-card {

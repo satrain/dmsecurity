@@ -283,7 +283,7 @@
 }
 
 .qr-patrol-fourth-section {
-    padding-bottom: 128px;
+    padding-bottom: 70px;
 }
 
 .qr-patrol-sistem-obilaska-section {
@@ -338,6 +338,14 @@
 
 .qr-patrol-olaksajte-poslovanje-button-wrapper a:first-child {
     margin-right: 25px;
+}
+
+.compare-plans-btn {
+    margin-left: 50%;
+    transform: translateX(-50%);
+    margin-top: 70px;
+    max-width: 500px;
+    width: 100%;
 }
 
 @media screen and (max-width: 768px) {

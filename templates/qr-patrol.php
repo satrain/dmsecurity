@@ -145,6 +145,7 @@ get_header(); ?>
                 </div>
             </div>
         </div>
+        <a href="/qr-patrol-planovi/" class="btn-primary compare-plans-btn">Uporedite planove</a>
     </div>
 </div>
 

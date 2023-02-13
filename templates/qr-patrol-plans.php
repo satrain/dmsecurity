@@ -3,6 +3,7 @@
     get_header();
 ?>
 <div class="qr-patrol-plans-page">
+    <h2>QR-Patrol Planovi</h2>
     <div class="main desktop-price-table">
         <table class="price-table">
             <tbody>
@@ -28,151 +29,151 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-asset-updates" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Upravljanje rasporedima</td>
+                    <td><a href="#wordpress-asset-updates" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Upravljanje rasporedima</td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-core-updates" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> NFC/QR-kod kontrolne tačke</td>
+                    <td><a href="#wordpress-core-updates" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> NFC/QR-kod kontrolne tačke</td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-security-monitoring" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Dnevni izveštaji o aktivnostima</td>
+                    <td><a href="#wordpress-security-monitoring" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Dnevni izveštaji o aktivnostima</td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-uptime-monitoring" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> + "Beacons" kontrolna tačka</td>
+                    <td><a href="#wordpress-uptime-monitoring" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> + "Beacons" kontrolna tačka</td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-malware-cleanup" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Geolokacija</td>
+                    <td><a href="#wordpress-malware-cleanup" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Geolokacija</td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-security-audit" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> GPS praćenje</td>
+                    <td><a href="#wordpress-security-audit" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> GPS praćenje</td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-security-audit" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Upozorenja u realnom vremenu</td>
+                    <td><a href="#wordpress-security-audit" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Upozorenja u realnom vremenu</td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-priority-support" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Upravljanje korisnicima</td>
+                    <td><a href="#wordpress-priority-support" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Upravljanje korisnicima</td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-priority-support" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Pristup na više nivoa</td>
+                    <td><a href="#wordpress-priority-support" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Pristup na više nivoa</td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-priority-support" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Email obaveštenja</td>
+                    <td><a href="#wordpress-priority-support" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Email obaveštenja</td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-billing" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Upravljanje telefonom</td>
+                    <td><a href="#wordpress-billing" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Upravljanje telefonom</td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-billing" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Push to talk funkcionalnost</td>
+                    <td><a href="#wordpress-billing" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Push to talk funkcionalnost</td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-billing" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> API pristup</td>
+                    <td><a href="#wordpress-billing" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> API pristup</td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-billing" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Eksterno SOS dugme</td>
+                    <td><a href="#wordpress-billing" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Eksterno SOS dugme</td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-billing" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Unutrašnja lokacija</td>
+                    <td><a href="#wordpress-billing" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Unutrašnja lokacija</td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-billing" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Čovek pao funkcionalnost</td>
+                    <td><a href="#wordpress-billing" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Čovek pao funkcionalnost</td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-billing" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Mobilne forme</td>
+                    <td><a href="#wordpress-billing" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Mobilne forme</td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-billing" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Verifikacija licem</td>
+                    <td><a href="#wordpress-billing" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Verifikacija licem</td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-check"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-billing" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Trag patrole čuvara</td>
+                    <td><a href="#wordpress-billing" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Trag patrole čuvara</td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-billing" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Personalizovani ekran za prijavu</td>
+                    <td><a href="#wordpress-billing" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Personalizovani ekran za prijavu</td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-billing" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Safepass</td>
+                    <td><a href="#wordpress-billing" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Safepass</td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-billing" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Logo na izveštajima i slike čuvara</td>
+                    <td><a href="#wordpress-billing" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Logo na izveštajima i slike čuvara</td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-billing" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Virtuelne kontrolne tačke</td>
+                    <td><a href="#wordpress-billing" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Virtuelne kontrolne tačke</td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-billing" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Napredno prilagođavanje izveštaja</td>
+                    <td><a href="#wordpress-billing" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Napredno prilagođavanje izveštaja</td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-check"></i></td>
                 </tr>
                 <tr>
-                    <td><a href="#wordpress-billing" class="price-table-help"><i class="far fa-fw fa-question-circle"></i></a> Istorija aktivnosti</td>
+                    <td><a href="#wordpress-billing" class="price-table-help"><!-- <i class="far fa-fw fa-question-circle"></i> --></a> Istorija aktivnosti</td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-times"></i></td>
                     <td><i class="fas fa-check"></i></td>
