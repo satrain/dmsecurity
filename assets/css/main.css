@@ -1280,3 +1280,31 @@ footer .container > div ul li a span {
         margin-top: 25px;
     }
 }
+
+.qr-patrol-order-plan-wrapper {
+  padding: 210px 70px 70px;
+}
+
+.qr-patrol-order-plan-wrapper h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+@media screen and (max-width: 1024px) {
+  .qr-patrol-order-plan-wrapper {
+    padding: 150px 70px 70px;
+  }
+}
+
+@media screen and (max-width: 525px) {
+  .qr-patrol-order-plan-wrapper {
+    padding: 110px 30px 50px;
+  }
+
+  .qr-patrol-order-plan-wrapper h1 {
+    margin-bottom: 15px;
+    text-align: left;
+    font-size: 28px;
+    line-height: 36px;
+  }
+}

@@ -62,7 +62,7 @@
 }
 
 .qr-patrol-second-section #qr-patrol-video {
-    padding-top: 110px;
+    padding-top: 0;
 }
 
 .qr-patrol-second-section {
@@ -84,6 +84,17 @@
     width: 300px !important;
     margin-left: 23px;
     margin-right: 23px;
+}
+
+.local-clients-heading {
+    margin-top: 75px!important;
+    max-width: unset!important;
+}
+
+.local-clients-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .qr-patrol-products-section {

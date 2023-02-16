@@ -38,6 +38,11 @@ get_header(); ?>
         <img src="/wp-content/uploads/2023/02/Egroup-logo.png">
         <img src="/wp-content/uploads/2023/02/honda-logo.png">
     </div>
+
+    <h2 class="local-clients-heading">Naši lokalni korisnici</h2>
+    <div class="local-clients-wrapper">
+        <img width="300" src="/wp-content/uploads/2023/02/perfect-company-1-1.png" alt="perfect company">
+    </div>
       <!-- QR-Patrol video -->
     <div id="qr-patrol-video">
         <div class="video-wrapper">
@@ -117,7 +122,7 @@ get_header(); ?>
                     <p>Alati za praćenje</p>
                     <p>Geolokacija</p>
                     <p>Zakazivanje</p>
-                    <a href="#" class="btn-primary">pretplatite se</a>
+                    <a href="/narucite-plan/" class="btn-primary">pretplatite se</a>
                 </div>
             </div>
             <div class="qr-patrol-subscription-wrapper">
@@ -129,7 +134,7 @@ get_header(); ?>
                     <p>Voki-toki</p>
                     <p>Čovek pao upozorenje</p>
                     <p>API pristup</p>
-                    <a href="#" class="btn-primary">pretplatite se</a>
+                    <a href="/narucite-plan/" class="btn-primary">pretplatite se</a>
                 </div>
             </div>
             <div class="qr-patrol-subscription-wrapper">
@@ -141,7 +146,7 @@ get_header(); ?>
                     <p>Personalizovani login ekran</p>
                     <p>Brendirani izveštaji</p>
                     <p>Virtuelne kontrolne tačke</p>
-                    <a href="#" class="btn-primary">pretplatite se</a>
+                    <a href="/narucite-plan/" class="btn-primary">pretplatite se</a>
                 </div>
             </div>
         </div>

@@ -181,13 +181,13 @@
                 <tr>
                     <td></td>
                     <td class="price">
-                        <a href="/kontakt/">Naruči plan</a>
+                        <a href="/narucite-plan/">Naruči plan</a>
                     </td>
                     <td class="price">
-                        <a href="/kontakt/">Naruči plan</a>
+                        <a href="/narucite-plan/">Naruči plan</a>
                     </td>
                     <td class="price">
-                        <a href="/kontakt/">Naruči plan</a>
+                        <a href="/narucite-plan/">Naruči plan</a>
                     </td>
                 </tr>
             </tbody>
